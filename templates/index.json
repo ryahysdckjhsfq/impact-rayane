@@ -111,38 +111,6 @@
         "text_color": ""
       }
     },
-    "video_MTrHPn": {
-      "type": "video",
-      "blocks": {
-        "play_NTAwr3": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_nfBRNA": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_NTAwr3",
-        "heading_nfBRNA"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "video": "shopify://files/videos/huawei-freeclip-open-ear.mp4",
-        "mobile_video": "shopify://files/videos/huawei-freeclip-open-ear.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "trust_pilot_reviews_jNiAPL": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
@@ -717,7 +685,6 @@
     "logo_list_LbwUty",
     "image_with_text_overlay_gwcfFr",
     "custom_liquid_C7V7M4",
-    "video_MTrHPn",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
