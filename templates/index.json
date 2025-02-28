@@ -77,9 +77,9 @@
         "background": "#fdfdfd",
         "background_gradient": "",
         "text_color": "#000000",
-        "heading_color": "",
+        "heading_color": "#000000",
         "heading_gradient": "",
-        "logo_item_background": "#fdfdfd",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
