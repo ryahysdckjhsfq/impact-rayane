@@ -99,26 +99,36 @@
         "overlay_opacity": 0
       }
     },
-    "before_after_image_CkPMha": {
-      "type": "before-after-image",
+    "video_MTrHPn": {
+      "type": "video",
+      "blocks": {
+        "play_NTAwr3": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_nfBRNA": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_NTAwr3",
+        "heading_nfBRNA"
+      ],
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Des résultats qui parlent d'eux-mêmes",
-        "content": "",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
-        "background": "#e4b7a0",
-        "background_gradient": "linear-gradient(177deg, rgba(255, 255, 255, 1) 14%, rgba(255, 255, 255, 1) 15%, rgba(226, 194, 178, 1) 43%)",
-        "text_color": "#000000",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/huawei-freeclip-open-ear.mp4",
+        "mobile_video": "shopify://files/videos/huawei-freeclip-open-ear.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "trust_pilot_reviews_jNiAPL": {
@@ -694,7 +704,7 @@
     "image_with_text_overlay_CHAr4d",
     "logo_list_LbwUty",
     "image_with_text_overlay_gwcfFr",
-    "before_after_image_CkPMha",
+    "video_MTrHPn",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
