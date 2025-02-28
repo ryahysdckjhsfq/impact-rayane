@@ -230,7 +230,7 @@
         "stars_color": "#ffffff",
         "text_color": "#000000",
         "background_color": "#ffffff",
-        "background_gradient": "linear-gradient(177deg, rgba(226, 194, 178, 1), rgba(255, 255, 255, 1) 100%)",
+        "background_gradient": "linear-gradient(180deg, rgba(169, 142, 232, 1), rgba(255, 255, 255, 1) 100%)",
         "border_color": "#1a1a1a",
         "margin_top": 0,
         "margin_bottom": 0,
