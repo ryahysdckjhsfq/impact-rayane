@@ -11,24 +11,13 @@
   "sections": {
     "image_with_text_overlay_CHAr4d": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_chjneQ": {
-          "type": "heading",
-          "settings": {
-            "text": "Vous voulez dire adieu à vos rides ? C’est possible",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_chjneQ"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/L_500_x_500_px_1.png",
+        "image": "shopify://shop_images/L.png",
+        "mobile_image": "shopify://shop_images/L_500_x_500_px_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
