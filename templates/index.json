@@ -247,33 +247,10 @@
     "multi_column_njF3Nz": {
       "type": "multi-column",
       "blocks": {
-        "item_64MHbe": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Véronique, 55 ans - Marseille",
-            "heading_tag": "h4",
-            "content": "<p>Enfin un produit qui tient ses promesses ! J'utilise GlowPatch depuis deux semaines, et les résultats sont impressionnants. Mon front est tellement plus lisse, et les pattes d’oie ont presque disparu. Une vraie pépite !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_eRmte6": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Claire, 50 ans - Lyon",
-            "heading_tag": "h4",
-            "content": "<p>Avec l'âge, mes rides du lion me complexaient énormément. Grâce à GlowPatch, elles sont quasiment invisibles ! J'adore aussi le fait que les patchs soient réutilisables, c'est économique et écologique. Merci GlowPatch !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_eWKkze": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/qzdf_zdq_dqz_dqz_d.png",
             "column_size": "3",
             "title": "Isabelle, 47 ans - Toulouse",
             "heading_tag": "h4",
@@ -283,9 +260,36 @@
             "link_style": "link"
           }
         },
+        "item_eRmte6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/imajqjfd_dq.png",
+            "column_size": "3",
+            "title": "Claire, 50 ans - Lyon",
+            "heading_tag": "h4",
+            "content": "<p>Avec l'âge, mes rides du lion me complexaient énormément. Grâce à GlowPatch, elles sont quasiment invisibles ! J'adore aussi le fait que les patchs soient réutilisables, c'est économique et écologique. Merci GlowPatch !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_64MHbe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dz_qd_z_dqz_dqz_d.png",
+            "column_size": "3",
+            "title": "Véronique, 55 ans - Marseille",
+            "heading_tag": "h4",
+            "content": "<p>Enfin un produit qui tient ses promesses ! J'utilise GlowPatch depuis deux semaines, et les résultats sont impressionnants. Mon front est tellement plus lisse, et les pattes d’oie ont presque disparu. Une vraie pépite !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_JrtQdC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/grd_d_ghrg_dr_g.png",
             "column_size": "3",
             "title": "Sophie, 48 ans - Lille",
             "heading_tag": "h4",
@@ -298,6 +302,7 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/fesf_es_fs_f.png",
             "column_size": "3",
             "title": "Marie, 45 ans - Paris",
             "heading_tag": "h4",
@@ -306,27 +311,14 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_mh4bEi": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Nathalie, 42 ans - Bordeaux",
-            "heading_tag": "h4",
-            "content": "<p>Ma peau avait besoin d’un vrai coup de jeune, et ces patchs sont une révélation. Je les applique avant de dormir, et au réveil, ma peau est repulpée et lumineuse. Je recommande à toutes les femmes de mon âge.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
-        "item_64MHbe",
-        "item_eRmte6",
         "item_eWKkze",
+        "item_eRmte6",
+        "item_64MHbe",
         "item_JrtQdC",
-        "item_Jp96dL",
-        "item_mh4bEi"
+        "item_Jp96dL"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
