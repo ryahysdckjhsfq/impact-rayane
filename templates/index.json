@@ -384,12 +384,6 @@
             "max_width": 500
           }
         },
-        "liquid_M9yYxb": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<html>\n<head>\n<script src=\"https://cdn.tailwindcss.com\"></script>\n<link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css\" rel=\"stylesheet\"/>\n</head>\n<body class=\"flex justify-center items-center min-h-screen bg-white\">\n<div class=\"flex justify-center items-center space-x-8 px-4\">\n  <div class=\"flex items-center space-x-2\">\n    <i class=\"fas fa-flask text-2xl text-gray-700\"></i>\n    <p class=\"text-base font-bold text-gray-800\">Silicone Médical</p>\n  </div>\n  <div class=\"flex items-center space-x-2\">\n    <i class=\"fas fa-water text-2xl text-gray-700\"></i>\n    <p class=\"text-base font-bold text-gray-800\">Hydrate</p>\n  </div>\n  <div class=\"flex items-center space-x-2\">\n    <i class=\"fas fa-users text-2xl text-gray-700\"></i>\n    <p class=\"text-base font-bold text-gray-800\">Tous Types de Peaux</p>\n  </div>\n</div>\n</body>\n</html>"
-          }
-        },
         "liquid_dkq3wi": {
           "type": "liquid",
           "settings": {
@@ -465,7 +459,6 @@
         "badges_6RcwRt",
         "liquid_MX7UGC",
         "image_jVW4cF",
-        "liquid_M9yYxb",
         "liquid_dkq3wi",
         "separator_tMdHYc",
         "description_V7q9t4",
