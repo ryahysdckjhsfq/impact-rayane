@@ -81,6 +81,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/Clipsear_5.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
