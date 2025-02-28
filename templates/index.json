@@ -247,19 +247,6 @@
     "multi_column_njF3Nz": {
       "type": "multi-column",
       "blocks": {
-        "item_eWKkze": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/qzdf_zdq_dqz_dqz_d.png",
-            "column_size": "3",
-            "title": "Thomas L. – \"Enfin des écouteurs qui tiennent !\"",
-            "heading_tag": "h4",
-            "content": "<p>Je galérais toujours avec des écouteurs qui tombaient ou me faisaient mal. Clipsear tient parfaitement et se fait oublier. Une vraie liberté !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_eRmte6": {
           "type": "item",
           "settings": {
@@ -268,6 +255,19 @@
             "title": "Sophie M. – \"Fini le stress des écouteurs qui tombent !\"",
             "heading_tag": "h4",
             "content": "<p>Dans le métro, en marchant… toujours peur qu’ils tombent. Avec Clipsear, je me sens enfin tranquille. Confortables, stylés et ultra stables.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eWKkze": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/qzdf_zdq_dqz_dqz_d.png",
+            "column_size": "3",
+            "title": "Thomas L. – \"Enfin des écouteurs qui tiennent !\"",
+            "heading_tag": "h4",
+            "content": "<p>Je galérais toujours avec des écouteurs qui tombaient ou me faisaient mal. Clipsear tient parfaitement et se fait oublier. Une vraie liberté !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -314,8 +314,8 @@
         }
       },
       "block_order": [
-        "item_eWKkze",
         "item_eRmte6",
+        "item_eWKkze",
         "item_64MHbe",
         "item_JrtQdC",
         "item_Jp96dL"
