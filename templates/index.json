@@ -378,14 +378,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description_V7q9t4": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
         "kaching_bundles_app_block_gMT3Ma": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -414,6 +406,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_9G4nRn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Happy Customers Badge</title>\n<style>\n/* Container styles */\n.badge-container {\ndisplay: flex;\nalign-items: center;\nbackground-color: #F0F5FF; /* Light blue background */\npadding: 6px 12px; /* Smaller padding */\nborder-radius: 20px; /* Rounded edges */\nfont-family: Arial, Helvetica, sans-serif;\nbox-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\nwidth: fit-content;\n}\n\n/* Avatar container */\n.avatar-group {\ndisplay: flex;\nmargin-right: 8px;\n}\n\n/* Individual avatars */\n.avatar {\nwidth: 24px;\nheight: 24px;\nborder-radius: 50%;\nborder: 2px solid #FFF; /* White border around avatars */\nmargin-left: -8px; /* Overlapping effect */\nobject-fit: cover;\n}\n\n/* First avatar doesn't shift */\n.avatar:first-child {\nmargin-left: 0;\n}\n\n/* Text content */\n.badge-text {\ncolor: #1A1A1A; /* Dark text color */\nfont-size: 14px; /* Smaller font size */\nfont-weight: 400;\n}\n\n.badge-text .bold {\nfont-weight: 700; /* Bold text */\n}\n</style>\n</head>\n<body>\n<!-- Badge Component -->\n<div class=\"badge-container\">\n<!-- Avatar Group -->\n<div class=\"avatar-group\">\n<img src=\"https://randomuser.me/api/portraits/men/1.jpg\" alt=\"Avatar 1\" class=\"avatar\">\n<img src=\"https://randomuser.me/api/portraits/women/2.jpg\" alt=\"Avatar 2\" class=\"avatar\">\n<img src=\"https://randomuser.me/api/portraits/men/3.jpg\" alt=\"Avatar 3\" class=\"avatar\">\n<img src=\"https://randomuser.me/api/portraits/women/4.jpg\" alt=\"Avatar 4\" class=\"avatar\">\n</div>\n<!-- Text -->\n<div class=\"badge-text\">\n<span class=\"bold\">+1,230</span> happy customers gave <span class=\"bold\">4.8/5</span>\n</div>\n</div>\n</body>\n</html>"
+          }
+        },
         "liquid_dWrLFz": {
           "type": "liquid",
           "settings": {
@@ -440,11 +438,11 @@
         "image_jVW4cF",
         "liquid_dkq3wi",
         "separator_tMdHYc",
-        "description_V7q9t4",
         "kaching_bundles_app_block_gMT3Ma",
         "quantity_selector_X7VLXz",
         "image_YpfRMB",
         "buy_buttons_iKQNEB",
+        "liquid_9G4nRn",
         "liquid_dWrLFz",
         "pickup_availability_VcycgA",
         "image_VniWmy"
