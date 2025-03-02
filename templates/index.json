@@ -374,25 +374,10 @@
             "liquid": "<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    font-size: 14px;\n    font-weight: bold;\n    color: #1A1A1A; /* Noir pour un bon contraste */\n    font-family: Arial, sans-serif;\n  }\n\n  .stock-alert .dot {\n    width: 14px;  /* Légèrement plus grand pour attirer l'œil */\n    height: 14px;\n    background-color: #D90429; /* Rouge vif pour urgence */\n    border-radius: 50%;\n    margin-right: 8px;\n    box-shadow: 0 0 12px rgba(217, 4, 41, 0.9); /* Effet lumineux intense */\n    animation: blink 0.7s infinite alternate;\n  }\n\n  @keyframes blink {\n    0% { opacity: 1; transform: scale(1); }\n    100% { opacity: 0.6; transform: scale(1.2); } /* Légère expansion pour attirer l'œil */\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"dot\"></div>\n  <span>Plus que <strong>3</strong> en stock.</span>\n</div>"
           }
         },
-        "separator_tMdHYc": {
-          "type": "separator",
-          "settings": {}
-        },
         "kaching_bundles_app_block_gMT3Ma": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{section.settings.product}}"
-          }
-        },
-        "quantity_selector_X7VLXz": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "image_YpfRMB": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 500
           }
         },
         "liquid_8kEDAE": {
@@ -412,27 +397,10 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_9G4nRn": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Badge Clients Heureux</title>\n<style>\n/* Container styles */\n.badge-container {\ndisplay: flex;\nalign-items: center;\nbackground-color: #FFFFFF; /* Fond blanc */\nborder: 2px solid #A98EE8; /* Contour violet métallique */\npadding: 6px 12px;\nborder-radius: 20px;\nfont-family: Arial, Helvetica, sans-serif;\nbox-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\nwidth: fit-content;\n}\n\n/* Avatar container */\n.avatar-group {\ndisplay: flex;\nmargin-right: 8px;\n}\n\n/* Individual avatars */\n.avatar {\nwidth: 24px;\nheight: 24px;\nborder-radius: 50%;\nborder: 2px solid #FFFFFF; /* Bordure blanche autour des avatars */\nmargin-left: -8px; /* Effet de superposition */\nobject-fit: cover;\n}\n\n/* First avatar doesn't shift */\n.avatar:first-child {\nmargin-left: 0;\n}\n\n/* Text content */\n.badge-text {\ncolor: #1A1A1A; /* Noir pour le contraste */\nfont-size: 14px;\nfont-weight: 400;\n}\n\n.badge-text .bold {\ncolor: #A98EE8; /* Violet métallique pour mettre en valeur les chiffres */\nfont-weight: 700;\n}\n</style>\n</head>\n<body>\n<!-- Badge Component -->\n<div class=\"badge-container\">\n<!-- Avatar Group -->\n<div class=\"avatar-group\">\n<img src=\"https://randomuser.me/api/portraits/men/1.jpg\" alt=\"Avatar 1\" class=\"avatar\">\n<img src=\"https://randomuser.me/api/portraits/women/2.jpg\" alt=\"Avatar 2\" class=\"avatar\">\n<img src=\"https://randomuser.me/api/portraits/men/3.jpg\" alt=\"Avatar 3\" class=\"avatar\">\n<img src=\"https://randomuser.me/api/portraits/women/4.jpg\" alt=\"Avatar 4\" class=\"avatar\">\n</div>\n<!-- Text -->\n<div class=\"badge-text\">\n<span class=\"bold\">+1,230</span> clients conquis nous notent <span class=\"bold\">4.8/5</span>  \n</div>\n</div>\n</body>\n</html>"
-          }
-        },
         "liquid_dWrLFz": {
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .reassurance-container {\n    display: flex;\n    justify-content: center;\n    gap: 8px; /* Espacement optimisé */\n    margin-top: 10px;\n    flex-wrap: wrap; /* Permet l'adaptation sur mobile */\n  }\n\n  .reassurance-item {\n    display: flex;\n    align-items: center;\n    background-color: #F8F8F8; /* Fond gris clair */\n    padding: 10px 14px;\n    border-radius: 50px; /* Bordures arrondies */\n    font-size: 14px;\n    font-weight: bold;\n    color: #1A1A1A;\n    font-family: Arial, sans-serif;\n    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);\n    white-space: nowrap; /* Empêche le texte de sauter sur deux lignes */\n  }\n\n  .reassurance-item img {\n    width: 16px; /* Taille des icônes ajustée */\n    height: 16px;\n    margin-right: 6px;\n  }\n\n  /* Responsive Design */\n  @media (max-width: 768px) {\n    .reassurance-container {\n      gap: 6px; /* Réduction de l'espacement pour mobile */\n    }\n\n    .reassurance-item {\n      font-size: 12px; /* Texte légèrement réduit pour mobile */\n      padding: 8px 12px;\n    }\n\n    .reassurance-item img {\n      width: 14px;\n      height: 14px;\n    }\n  }\n</style>\n\n<div class=\"reassurance-container\">\n  <div class=\"reassurance-item\">\n    <img src=\"https://www.svgrepo.com/show/521010/truck-speed.svg\" alt=\"Livraison rapide\">\n    <span>Livraison suivie</span>\n  </div>\n  \n  <div class=\"reassurance-item\">\n    <img src=\"https://www.svgrepo.com/show/486865/support.svg\" alt=\"Support 24/7\">\n    <span>Support 24/7</span>\n  </div>\n\n  <div class=\"reassurance-item\">\n    <img src=\"https://www.svgrepo.com/show/457232/return.svg\" alt=\"Garantie\">\n    <span>90j satisfait ou remboursé</span>\n  </div>\n</div>"
-          }
-        },
-        "pickup_availability_VcycgA": {
-          "type": "pickup_availability",
-          "settings": {}
-        },
-        "image_VniWmy": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 500
           }
         }
       },
@@ -443,16 +411,10 @@
         "liquid_MX7UGC",
         "image_jVW4cF",
         "liquid_dkq3wi",
-        "separator_tMdHYc",
         "kaching_bundles_app_block_gMT3Ma",
-        "quantity_selector_X7VLXz",
-        "image_YpfRMB",
         "liquid_8kEDAE",
         "buy_buttons_iKQNEB",
-        "liquid_9G4nRn",
-        "liquid_dWrLFz",
-        "pickup_availability_VcycgA",
-        "image_VniWmy"
+        "liquid_dWrLFz"
       ],
       "settings": {
         "full_width": true,
