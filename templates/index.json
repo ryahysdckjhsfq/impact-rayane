@@ -516,57 +516,57 @@
         "item_CnFdVm": {
           "type": "item",
           "settings": {
-            "title": "Combien de fois puis-je utiliser les patchs GlowPatch ?",
-            "content": "<p>Les patchs GlowPatch sont réutilisables jusqu’à <strong>20 fois</strong> par patch. Après chaque utilisation, nettoyez-les avec de l’eau tiède et laissez-les sécher à l’air libre. Cela garantit leur durabilité et leur efficacité. Un seul set peut donc vous accompagner pendant plusieurs semaines !</p>"
+            "title": "Clipsear tient-il bien en place ?",
+            "content": "<p>Oui, grâce à son <strong>design innovant à clip auriculaire</strong>, il reste parfaitement en place, même en mouvement.</p>"
           }
         },
         "item_YPj3tn": {
           "type": "item",
           "settings": {
-            "title": "GlowPatch fonctionne-t-il vraiment ?",
-            "content": "<p>Oui, GlowPatch est conçu pour offrir des résultats visibles dès la <strong>première utilisation</strong>. Grâce au silicone de qualité médicale, les patchs stimulent l’hydratation et lissent les rides en maintenant la peau bien tendue. De plus, nos clientes adorent leurs résultats : une peau visiblement plus lisse et des rides atténuées en quelques jours seulement.</p>"
+            "title": "Est-ce que Clipsear fonctionne vraiment ?",
+            "content": "<p>Absolument ! Sa <strong>technologie de transmission sonore optimisée</strong> offre un son immersif tout en laissant vos oreilles respirer.</p>"
           }
         },
         "item_GDpRbw": {
           "type": "item",
           "settings": {
-            "title": "Que faire si le GlamRoot ne répond pas à mes attentes ?",
-            "content": "<p>Si vous n'êtes pas satisfait de votre achat, contactez notre service client dans les 30 jours suivant l'achat. Nous vous offrons un remboursement ou un échange, selon votre préférence.</p>"
+            "title": "En combien de temps vais-je recevoir ma commande ?",
+            "content": "<p>Nos commandes sont expédiées sous <strong>24 à 48h</strong> et livrées en <strong>7 à 10 jours ouvrés</strong>.</p>"
           }
         },
         "item_qE6Ebc": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps faut-il porter les patchs ?",
-            "content": "<p>Pour des résultats optimaux, nous recommandons de porter les patchs pendant votre sommeil (6-8 heures). Si vous êtes pressé(e), portez-les au moins 1 à 2 heures pour un effet repulpant et lissant.</p>"
+            "title": "Quelle est l’autonomie de Clipsear ?",
+            "content": "<p>Jusqu'à <strong>36 heures d'utilisation</strong> grâce à son boîtier de charge portable.</p>"
           }
         },
         "item_xPrMzy": {
           "type": "item",
           "settings": {
-            "title": "En combien de temps vais-je recevoir ma commande ?",
-            "content": "<p>La livraison est <strong>gratuite partout en France</strong>. Votre commande sera expédiée rapidement et vous la recevrez sous <strong>6 à 10 jours ouvrés</strong>.</p>"
+            "title": "Peut-on passer des appels avec Clipsear ?",
+            "content": "<p>Oui, grâce à son <strong>micro haute définition</strong>, profitez d’appels clairs et fluides, même en extérieur.</p>"
           }
         },
         "item_igURbp": {
           "type": "item",
           "settings": {
-            "title": "Quel est le délai de livraison ?",
-            "content": "<p>La livraison est <strong>gratuite partout en France</strong>. Votre commande sera expédiée rapidement et vous la recevrez sous <strong>6 à 10 jours ouvrés</strong>.</p>"
+            "title": "Clipsear est-il compatible avec mon téléphone ?",
+            "content": "<p>Oui, Clipsear est compatible avec <strong>tous les appareils Bluetooth</strong> (iPhone, Android, tablettes, PC…).</p>"
           }
         },
         "item_xYwh8W": {
           "type": "item",
           "settings": {
-            "title": "GlowPatch est-il vraiment sans danger pour ma peau ?",
-            "content": "<p>Oui, GlowPatch est fabriqué à partir de <strong>silicone de qualité médicale</strong>, un matériau sûr, hypoallergénique et testé dermatologiquement. Il est conçu pour être doux, même sur les peaux les plus sensibles, et ne contient aucun produit chimique nocif. Vous pouvez l’utiliser en toute confiance.</p>"
+            "title": "Est-il résistant à l’eau et à la transpiration ?",
+            "content": "<p>Oui, Clipsear est conçu pour résister à l’humidité et aux éclaboussures du quotidien.</p>"
           }
         },
         "item_7AJMh4": {
           "type": "item",
           "settings": {
-            "title": "GlowPatch peut-il être utilisé avec d'autres soins de la peau ?",
-            "content": "<p>Nous recommandons d’utiliser GlowPatch sur une peau <strong>propre et sèche</strong>, sans aucun soin appliqué, pour garantir une adhérence optimale et de meilleurs résultats. Une fois les patchs retirés, vous pouvez reprendre votre routine habituelle avec vos crèmes hydratantes ou sérums préférés.</p>"
+            "title": "Et si Clipsear ne me convient pas ?",
+            "content": "<p>Nous offrons <strong>90 jours satisfait ou remboursé</strong> ainsi qu’un <strong>service client disponible 7j/7</strong>.</p>"
           }
         }
       },
