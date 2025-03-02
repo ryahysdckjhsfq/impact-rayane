@@ -499,34 +499,6 @@
         "heading_gradient": ""
       }
     },
-    "174095048147fe994d": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_XJnK3r": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "clipsear-one",
-            "aggregated": true,
-            "data-limit": 10,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_XJnK3r"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq_8AQkP4": {
       "type": "faq",
       "blocks": {
@@ -619,6 +591,34 @@
         "accordion_text_color": ""
       }
     },
+    "174095048147fe994d": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_XJnK3r": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "clipsear-one",
+            "aggregated": true,
+            "data-limit": 10,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_XJnK3r"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_tMdXJr": {
       "type": "contact",
       "settings": {
@@ -660,8 +660,8 @@
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
     "tabs_rUHYbb",
-    "174095048147fe994d",
     "faq_8AQkP4",
+    "174095048147fe994d",
     "contact_tMdXJr",
     "1736005729a9fa11d2"
   ]
