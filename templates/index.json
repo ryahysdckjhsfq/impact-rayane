@@ -99,18 +99,6 @@
         "overlay_opacity": 0
       }
     },
-    "custom_liquid_C7V7M4": {
-      "type": "custom-liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"open-ear-section\">\n  <div class=\"video-container\">\n    <video autoplay loop muted playsinline>\n      <source src=\"{{ 'huawei-freeclip-open-ear.mp4' | file_url }}\" type=\"video/mp4\">\n      Votre navigateur ne supporte pas la lecture de vidéos.\n    </video>\n  </div>\n\n  <div class=\"text-content\">\n    <h2>Écoute libre, confort absolu</h2>\n    <p class=\"sub-text\">\n      Ultra-léger, Clipsear ne pèse que <strong class=\"purple-text\">5.6 g</strong>.  \n      Son design ouvert laisse respirer vos oreilles pour une sensation naturelle.\n    </p>\n    <p class=\"highlight-text\">\n      <strong>Interchangeable & auto-adaptatif.</strong>  \n      Portez chaque écouteur sur l’oreille de votre choix.\n    </p>\n    <div class=\"weight-content\">\n      <p class=\"weight-label\">Poids plume</p>\n      <span class=\"weight-value\">5.6</span><span class=\"weight-unit\">g</span>\n    </div>\n  </div>\n</div>\n\n<style>\n.open-ear-section {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  padding: 20px 20px; /* Réduction de l'espacement en haut */\n  background-color: #FFFFFF;\n  text-align: left;\n}\n\n.video-container {\n  width: 100%;\n  max-width: 550px; /* Augmentation de la taille de la vidéo */\n  margin-bottom: 10px; /* Réduction de l'espacement sous la vidéo */\n}\n\n.video-container video {\n  width: 100%;\n  height: auto;\n  display: block;\n  border-radius: 12px;\n  overflow: hidden;\n}\n\n.text-content {\n  width: 100%;\n  margin-top: -10px; /* Remonte le texte pour éviter trop d'espace blanc */\n}\n\n.text-content h2 {\n  font-size: 28px;\n  font-weight: bold;\n  color: #000;\n  margin-bottom: 5px; /* Réduction de l'espace sous le titre */\n}\n\n.sub-text {\n  font-size: 16px;\n  color: #777;\n  line-height: 1.4; /* Réduction de l'interligne */\n}\n\n.highlight-text {\n  font-size: 16px;\n  font-weight: bold;\n  color: #333;\n  margin-top: 5px;\n}\n\n.weight-content {\n  margin-top: 15px; /* Réduction de l'espacement avant le poids */\n}\n\n.weight-label {\n  font-size: 14px;\n  color: #777;\n}\n\n.weight-value {\n  font-size: 32px;\n  font-weight: bold;\n  color: #A98EE8; /* Violet métallique */\n}\n\n.weight-unit {\n  font-size: 18px;\n  color: #777;\n}\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "trust_pilot_reviews_jNiAPL": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
@@ -655,7 +643,6 @@
     "image_with_text_overlay_CHAr4d",
     "logo_list_LbwUty",
     "image_with_text_overlay_gwcfFr",
-    "custom_liquid_C7V7M4",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
