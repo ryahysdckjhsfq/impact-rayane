@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/L.png",
-        "mobile_image": "shopify://shop_images/L_500_x_500_px_1350_x_1500_px_1.png",
+        "image": "shopify://shop_images/image_banniere.png",
+        "mobile_image": "shopify://shop_images/Design_sans_titre_20.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,6 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telecharge_3.png",
             "logo_width": 300,
             "link": ""
           }
@@ -39,7 +38,6 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telecharge_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -47,7 +45,6 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telecharge_1.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -55,7 +52,6 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telecharge_4.png",
             "logo_width": 300,
             "link": ""
           }
@@ -90,8 +86,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_ergonomique_en_pont_C.png",
-        "mobile_image": "shopify://shop_images/Design_ergonomique_en_pont_C.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -238,7 +232,6 @@
         "item_eRmte6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imajqjfd_dq.png",
             "column_size": "3",
             "title": "Sophie M. – \"Fini le stress des écouteurs qui tombent !\"",
             "heading_tag": "h4",
@@ -251,7 +244,6 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/qzdf_zdq_dqz_dqz_d.png",
             "column_size": "3",
             "title": "Thomas L. – \"Enfin des écouteurs qui tiennent !\"",
             "heading_tag": "h4",
@@ -264,7 +256,6 @@
         "item_64MHbe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/dz_qd_z_dqz_dqz_d.png",
             "column_size": "3",
             "title": "Lucas R. – \"Parfait pour bouger sans contrainte.\"",
             "heading_tag": "h4",
@@ -277,7 +268,6 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/grd_d_ghrg_dr_g.png",
             "column_size": "3",
             "title": "Julien D. – \"J’ai eu des frissons dès la première écoute.\"",
             "heading_tag": "h4",
@@ -290,7 +280,6 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/fesf_es_fs_f.png",
             "column_size": "3",
             "title": "Camille V. – \"Une sensation de liberté incroyable.\"",
             "heading_tag": "h4",
@@ -362,12 +351,6 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stock : 4 restants</div>\n</div>"
           }
         },
-        "kaching_bundles_app_block_gMT3Ma": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "buy_buttons_iKQNEB": {
           "type": "buy_buttons",
           "settings": {
@@ -393,7 +376,6 @@
         "liquid_MX7UGC",
         "image_jVW4cF",
         "liquid_dkq3wi",
-        "kaching_bundles_app_block_gMT3Ma",
         "buy_buttons_iKQNEB",
         "liquid_dWrLFz"
       ],
@@ -572,34 +554,6 @@
         "accordion_text_color": ""
       }
     },
-    "174095048147fe994d": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_XJnK3r": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "clipsear-one",
-            "aggregated": true,
-            "data-limit": 10,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_XJnK3r"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "contact_tMdXJr": {
       "type": "contact",
       "settings": {
@@ -618,6 +572,17 @@
         "contact_text_color": "",
         "button_background": "#a98ee8",
         "button_text_color": "#ffffff"
+      }
+    },
+    "174095048147fe994d": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "1736005729a9fa11d2": {
