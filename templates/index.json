@@ -11,18 +11,30 @@
   "sections": {
     "image_with_text_overlay_CHAr4d": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_jzeEgR": {
+          "type": "heading",
+          "settings": {
+            "text": "Dites adieu aux taches bonjour à l’éclat",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jzeEgR"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/image_banniere.png",
-        "mobile_image": "shopify://shop_images/Design_sans_titre_20.png",
+        "mobile_image": "shopify://shop_images/image_banniere_origine.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 30
       }
     },
     "logo_list_LbwUty": {

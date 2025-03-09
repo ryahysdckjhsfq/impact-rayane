@@ -17,7 +17,7 @@
         "message_jatTbz": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou remboursé 90 jours",
+            "text": "Satisfait ou remboursé 30 jours",
             "url": ""
           }
         },
@@ -56,7 +56,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#a98ee8",
+        "background": "#00a4a6",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -66,9 +66,9 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Clipsear_5.png",
-        "logo_max_width": 205,
-        "logo_mobile_max_width": 125,
+        "logo": "shopify://shop_images/Logo_transparent.png",
+        "logo_max_width": 155,
+        "logo_mobile_max_width": 120,
         "menu": "",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -81,7 +81,6 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/Clipsear_5.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
