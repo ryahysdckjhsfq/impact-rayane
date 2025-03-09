@@ -43,6 +43,7 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
             "logo_width": 300,
             "link": ""
           }
@@ -50,6 +51,7 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -57,6 +59,7 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -64,6 +67,7 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-Logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -78,7 +82,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Apparus sur :",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -91,6 +95,41 @@
         "logo_item_border": ""
       }
     },
+    "impact_text_cbpyWe": {
+      "type": "impact-text",
+      "blocks": {
+        "item_CLcpyc": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Pourquoi choisir Luméa ?",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_CLcpyc"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image_with_text_overlay_gwcfFr": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -98,6 +137,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "mobile_image": "shopify://shop_images/Image_benefices_technique.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -612,6 +652,7 @@
   "order": [
     "image_with_text_overlay_CHAr4d",
     "logo_list_LbwUty",
+    "impact_text_cbpyWe",
     "image_with_text_overlay_gwcfFr",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
