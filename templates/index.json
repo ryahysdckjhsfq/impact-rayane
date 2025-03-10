@@ -423,7 +423,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "x-large",
+        "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
         "title": "",
