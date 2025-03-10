@@ -11,30 +11,18 @@
   "sections": {
     "image_with_text_overlay_CHAr4d": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_jzeEgR": {
-          "type": "heading",
-          "settings": {
-            "text": "TACHES VISIBLES ?EFFACEZ-LES DÉFINITIVEMENT",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_jzeEgR"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/image_banniere.png",
-        "mobile_image": "shopify://shop_images/image_banniere_origine.png",
+        "mobile_image": "shopify://shop_images/Notee_4_85_1300_x_1500_px.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 21
+        "overlay_opacity": 0
       }
     },
     "logo_list_LbwUty": {
