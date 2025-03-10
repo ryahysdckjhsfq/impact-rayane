@@ -90,7 +90,7 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Pourquoi choisir Luméa ?",
+            "subheading": "Pourquoi chosir notre serum anti tache ?",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -121,12 +121,12 @@
     "image_with_text_overlay_gwcfFr": {
       "type": "image-with-text-overlay",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Image_benefices_technique.png",
-        "mobile_image": "shopify://shop_images/Reduit_les_taches_pigmentaires_2.png",
+        "mobile_image": "shopify://shop_images/qokq.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
