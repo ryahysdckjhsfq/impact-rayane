@@ -230,7 +230,7 @@
         "rating_text_mt": 48,
         "rating_text_mt_mobile": 12,
         "rating": 4.8,
-        "rating_hide": false,
+        "rating_hide": true,
         "rating_text_hide": true,
         "stars_count": 5,
         "stars_size": 44,
