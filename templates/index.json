@@ -15,7 +15,7 @@
         "heading_jzeEgR": {
           "type": "heading",
           "settings": {
-            "text": "Dites adieu aux taches bonjour à l’éclat",
+            "text": "TACHES VISIBLES ?EFFACEZ-LES DÉFINITIVEMENT",
             "heading_tag": "h2"
           }
         }
@@ -31,10 +31,10 @@
         "image": "shopify://shop_images/image_banniere.png",
         "mobile_image": "shopify://shop_images/image_banniere_origine.png",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 25
+        "overlay_opacity": 21
       }
     },
     "logo_list_LbwUty": {
@@ -133,7 +133,7 @@
     "image_with_text_overlay_gwcfFr": {
       "type": "image-with-text-overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
