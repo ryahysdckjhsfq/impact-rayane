@@ -17,7 +17,7 @@
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/image_banniere.png",
-        "mobile_image": "shopify://shop_images/Notee_4_85_1300_x_1500_px_1_9136ee2e-1048-4e7d-9ee4-96e45a560780.png",
+        "mobile_image": "shopify://shop_images/Notee_4_85_1300_x_1500_px_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
