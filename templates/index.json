@@ -439,7 +439,7 @@
         "liquid_zKpXgr": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .trustpilot-stars {\n    display: inline-flex;\n    align-items: center;\n  }\n\n  .trustpilot-stars img {\n    width: 100px; /* Taille ajustée pour un affichage discret */\n    height: auto;\n    margin-right: 5px;\n  }\n\n  .trustpilot-stars .review-count {\n    font-size: 14px;\n    color: #1A1A1A; /* Noir pour bon contraste */\n    font-weight: bold;\n  }\n</style>\n\n<div class=\"trustpilot-stars\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0917/9165/5252/files/stars-5.svg?v=1730856898\" alt=\"5 étoiles\">\n  <span class=\"review-count\">(1,291)</span>\n</div>"
+            "liquid": "<style>\n  .trustpilot-stars {\n    display: inline-flex;\n    align-items: center;\n  }\n\n  .trustpilot-stars img {\n    width: 100px; /* Taille ajustée pour un affichage discret */\n    height: auto;\n    margin-right: 5px;\n  }\n\n  .trustpilot-stars .review-count {\n    font-size: 14px;\n    color: #1A1A1A; /* Noir pour bon contraste */\n    font-weight: bold;\n  }\n</style>\n\n<div class=\"trustpilot-stars\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0917/9165/5252/files/stars-5.svg?v=1730856898\" alt=\"5 étoiles\">\n  <span class=\"review-count\">4,8 (+1283)</span>\n</div>"
           }
         },
         "title_zyhjch": {
