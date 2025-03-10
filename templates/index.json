@@ -482,7 +482,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#f0c417",
+            "atc_button_background": "#f2c515",
             "atc_button_text_color": "#000000",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -595,57 +595,64 @@
         "item_CnFdVm": {
           "type": "item",
           "settings": {
-            "title": "Clipsear tient-il bien en place ?",
-            "content": "<p>Oui, grâce à son <strong>design innovant à clip auriculaire</strong>, il reste parfaitement en place, même en mouvement.</p>"
+            "title": "Ce produit est-il adapté à mon type de peau ?",
+            "content": "<p>Oui ! Luméa Pigment Correcteur est conçu pour <strong>tous les types de peau</strong>, y compris <strong>les peaux sensibles</strong>. Sa formule douce est testée dermatologiquement et ne contient pas d'ingrédients agressifs.</p>"
           }
         },
         "item_YPj3tn": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que Clipsear fonctionne vraiment ?",
-            "content": "<p>Absolument ! Sa <strong>technologie de transmission sonore optimisée</strong> offre un son immersif tout en laissant vos oreilles respirer.</p>"
+            "title": "En combien de temps vais-je voir des résultats ?",
+            "content": "<p>Les premiers résultats sont visibles en <strong>2 à 3 jours</strong> avec une utilisation quotidienne. Pour un <strong>teint visiblement plus uniforme</strong>, nous recommandons une utilisation de <strong>2 à 3 semaines</strong>. Les résultats peuvent varier selon chaque peau.</p>"
           }
         },
         "item_GDpRbw": {
           "type": "item",
           "settings": {
-            "title": "En combien de temps vais-je recevoir ma commande ?",
-            "content": "<p>Nos commandes sont expédiées sous <strong>24 à 48h</strong> et livrées en <strong>7 à 10 jours ouvrés</strong>.</p>"
+            "title": "Est-ce que ce sérum est efficace sur les anciennes taches ?",
+            "content": "<p>Oui ! Luméa Pigment Correcteur agit aussi bien sur <strong>les taches récentes que celles installées depuis longtemps</strong> (taches d’hyperpigmentation, post-acné, soleil, vieillissement).</p>"
           }
         },
         "item_qE6Ebc": {
           "type": "item",
           "settings": {
-            "title": "Quelle est l’autonomie de Clipsear ?",
-            "content": "<p>Jusqu'à <strong>36 heures d'utilisation</strong> grâce à son boîtier de charge portable.</p>"
-          }
-        },
-        "item_xPrMzy": {
-          "type": "item",
-          "settings": {
-            "title": "Peut-on passer des appels avec Clipsear ?",
-            "content": "<p>Oui, grâce à son <strong>micro haute définition</strong>, profitez d’appels clairs et fluides, même en extérieur.</p>"
+            "title": "Puis-je l'utiliser avec ma routine skincare habituelle ?",
+            "content": "<p>Oui, ce sérum s’intègre parfaitement à votre routine ! Appliquez-le <strong>après votre nettoyant</strong> et <strong>avant votre crème hydratante</strong>. Pour maximiser l’effet anti-taches, <strong>utilisez une protection solaire (SPF 30 minimum) en journée</strong>.</p>"
           }
         },
         "item_igURbp": {
           "type": "item",
           "settings": {
-            "title": "Clipsear est-il compatible avec mon téléphone ?",
-            "content": "<p>Oui, Clipsear est compatible avec <strong>tous les appareils Bluetooth</strong> (iPhone, Android, tablettes, PC…).</p>"
+            "title": "Est-ce que ce produit blanchit la peau ?",
+            "content": "<p>Non ! Contrairement aux crèmes dépigmentantes agressives, Luméa Pigment Correcteur <strong>ne blanchit pas la peau</strong>. Il <strong>unifie et éclaircit uniquement les zones hyperpigmentées</strong> pour un teint naturel et lumineux.</p>"
+          }
+        },
+        "item_xPrMzy": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-il être utilisé pendant la grossesse ou l’allaitement ?",
+            "content": "<p>Oui, sa formule <strong>sans ingrédients controversés</strong> est adaptée aux femmes enceintes et allaitantes. Toutefois, si vous avez des doutes, nous vous conseillons de consulter votre dermatologue.</p>"
           }
         },
         "item_xYwh8W": {
           "type": "item",
           "settings": {
-            "title": "Est-il résistant à l’eau et à la transpiration ?",
-            "content": "<p>Oui, Clipsear est conçu pour résister à l’humidité et aux éclaboussures du quotidien.</p>"
+            "title": "Quelle est la contenance d’un flacon ?",
+            "content": "<p>Un flacon de <strong>20 ml</strong> dure <strong>1 mois</strong> en moyenne avec une utilisation quotidienne.</p>"
           }
         },
         "item_7AJMh4": {
           "type": "item",
           "settings": {
-            "title": "Et si Clipsear ne me convient pas ?",
-            "content": "<p>Nous offrons <strong>90 jours satisfait ou remboursé</strong> ainsi qu’un <strong>service client disponible 7j/7</strong>.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>France : 6 à 8 jours ouvrés<br/>Tous nos colis sont suivis et expédiés sous <strong>24h ouvrées</strong>.</p>"
+          }
+        },
+        "item_RRz4wN": {
+          "type": "item",
+          "settings": {
+            "title": "Et si je ne suis pas satisfaite ?",
+            "content": "<p>Nous avons <strong>une garantie satisfait ou remboursé de 30 jours</strong>. Si vous ne voyez pas de résultats, contactez-nous et nous vous remboursons !</p>"
           }
         }
       },
@@ -654,10 +661,11 @@
         "item_YPj3tn",
         "item_GDpRbw",
         "item_qE6Ebc",
-        "item_xPrMzy",
         "item_igURbp",
+        "item_xPrMzy",
         "item_xYwh8W",
-        "item_7AJMh4"
+        "item_7AJMh4",
+        "item_RRz4wN"
       ],
       "settings": {
         "full_width": true,
