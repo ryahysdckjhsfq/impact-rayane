@@ -134,6 +134,57 @@
         "overlay_opacity": 0
       }
     },
+    "impact_text_GdAUxV": {
+      "type": "impact-text",
+      "blocks": {
+        "item_qENqzA": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "La technologie anti-taches expliquée",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_qENqzA"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_Mf8C3y": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Comment_ca_marche.png",
+        "mobile_image": "shopify://shop_images/Comment_ca_marche.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "impact_text_QMt8Tn": {
       "type": "impact-text",
       "blocks": {
@@ -725,6 +776,8 @@
     "logo_list_LbwUty",
     "impact_text_cbpyWe",
     "image_with_text_overlay_gwcfFr",
+    "impact_text_GdAUxV",
+    "image_with_text_overlay_Mf8C3y",
     "impact_text_QMt8Tn",
     "before_after_image_FrnKtr",
     "trust_pilot_reviews_jNiAPL",
