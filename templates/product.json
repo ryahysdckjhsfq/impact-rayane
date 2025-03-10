@@ -79,10 +79,6 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "judge_me_reviews_preview_badge_WJcURM": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
         }
       },
       "block_order": [
@@ -96,8 +92,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "judge_me_reviews_preview_badge_WJcURM"
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
@@ -141,8 +136,30 @@
     },
     "1740951052ef9dba95": {
       "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1740997619eb36e74e": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1741615456e529b7ea": {
+      "type": "apps",
       "blocks": {
-        "loox_reviews_loox_dynamic_section_G96DWr": {
+        "loox_reviews_loox_dynamic_section_mE3fEB": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
@@ -155,27 +172,7 @@
         }
       },
       "block_order": [
-        "loox_reviews_loox_dynamic_section_G96DWr"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "1740997619eb36e74e": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_W39Qic": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_W39Qic"
+        "loox_reviews_loox_dynamic_section_mE3fEB"
       ],
       "settings": {
         "full_width": true,
@@ -191,6 +188,7 @@
     "main",
     "related-products",
     "1740951052ef9dba95",
-    "1740997619eb36e74e"
+    "1740997619eb36e74e",
+    "1741615456e529b7ea"
   ]
 }
