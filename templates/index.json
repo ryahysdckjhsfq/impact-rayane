@@ -344,13 +344,14 @@
     "multi_column_njF3Nz": {
       "type": "multi-column",
       "blocks": {
-        "item_eRmte6": {
+        "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Sophie M. – \"Fini le stress des écouteurs qui tombent !\"",
+            "image": "shopify://shop_images/laserbehandeling-voor-pigmentvlekken-1.webp",
+            "column_size": "2",
+            "title": "Sarah M.",
             "heading_tag": "h4",
-            "content": "<p>Dans le métro, en marchant… toujours peur qu’ils tombent. Avec Clipsear, je me sens enfin tranquille. Confortables, stylés et ultra stables.</p>",
+            "content": "<p>J’ai testé tellement de crèmes contre les taches sans résultat… mais celle-ci est incroyable ! En quelques semaines, mon teint est déjà plus uniforme. Je ne peux plus m’en passer.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -359,34 +360,11 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/traitement-melasma-dermamelan-avant-apres-cannes.peg.webp",
             "column_size": "3",
-            "title": "Thomas L. – \"Enfin des écouteurs qui tiennent !\"",
+            "title": "Léa T.",
             "heading_tag": "h4",
-            "content": "<p>Je galérais toujours avec des écouteurs qui tombaient ou me faisaient mal. Clipsear tient parfaitement et se fait oublier. Une vraie liberté !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_64MHbe": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Lucas R. – \"Parfait pour bouger sans contrainte.\"",
-            "heading_tag": "h4",
-            "content": "<p>Je suis coach sportif, et c’est la première fois que des écouteurs restent en place même pendant mes entraînements intenses. Un vrai game-changer.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JrtQdC": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Julien D. – \"J’ai eu des frissons dès la première écoute.\"",
-            "heading_tag": "h4",
-            "content": "<p>\"Le son est immersif, aérien, unique. J’ai redécouvert mes musiques préférées avec une clarté incroyable. Expérience inégalée.\"</p>",
+            "content": "<p>Idéal pour une routine simple et efficace. La texture est légère, ma peau l’absorbe rapidement, et surtout, mes taches commencent enfin à s’atténuer. Un vrai changement !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -395,10 +373,37 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image-before-after-spot-melasma-260nw-1919373224.jpg",
             "column_size": "3",
-            "title": "Camille V. – \"Une sensation de liberté incroyable.\"",
+            "title": "Inès T.",
             "heading_tag": "h4",
-            "content": "<p>Je déteste la pression des écouteurs classiques. Clipsear est léger, fluide, on l’oublie totalement. Le son est magnifique, une vraie libération.</p>",
+            "content": "<p>J’avais toujours besoin de maquillage pour cacher mes taches, mais maintenant je me sens bien sans. Lumea Skincare a vraiment transformé ma peau. Meilleur achat de ma vie !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eRmte6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/imfg.webp",
+            "column_size": "3",
+            "title": "Camille D.",
+            "heading_tag": "h4",
+            "content": "<p>Je n’osais plus sortir sans maquillage à cause de mes taches. Après un mois avec Luméa Skincare, mon teint est plus net et lumineux. Je revis !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_64MHbe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gentlemax-age-spots-jill-waibel-md-p1.jpg",
+            "column_size": "3",
+            "title": "Lucas R. – \"Parfait pour bouger sans contrainte.\"",
+            "heading_tag": "h4",
+            "content": "<p>Je suis coach sportif, et c’est la première fois que des écouteurs restent en place même pendant mes entraînements intenses. Un vrai game-changer.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -406,11 +411,11 @@
         }
       },
       "block_order": [
-        "item_eRmte6",
-        "item_eWKkze",
-        "item_64MHbe",
         "item_JrtQdC",
-        "item_Jp96dL"
+        "item_eWKkze",
+        "item_Jp96dL",
+        "item_eRmte6",
+        "item_64MHbe"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
