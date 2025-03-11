@@ -563,6 +563,22 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_7naeC3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/derniere_chance_1.png",
+        "mobile_image": "shopify://shop_images/derniere_chance_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "tabs_rUHYbb": {
       "type": "tabs",
       "blocks": {
@@ -783,6 +799,7 @@
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
+    "image_with_text_overlay_7naeC3",
     "tabs_rUHYbb",
     "faq_8AQkP4",
     "contact_tMdXJr",
