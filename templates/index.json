@@ -9,41 +9,6 @@
  */
 {
   "sections": {
-    "impact_text_VVKKeR": {
-      "type": "impact-text",
-      "blocks": {
-        "item_WELy9Y": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Votre rituel éclat en 3 secondes !",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_WELy9Y"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "image_with_text_overlay_CHAr4d": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -770,6 +735,41 @@
         "button_text_color": ""
       }
     },
+    "impact_text_VVKKeR": {
+      "type": "impact-text",
+      "blocks": {
+        "item_WELy9Y": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Votre rituel éclat en 3 secondes !",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_WELy9Y"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "video_r8tVWC": {
       "type": "video",
       "blocks": {
@@ -794,6 +794,31 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 22
+      }
+    },
+    "1741704546d0daecc4": {
+      "type": "apps",
+      "blocks": {
+        "pretty_comparison_tables_table_hYCk9b": {
+          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
+          "settings": {
+            "product": "lumea-pigment-correcteur",
+            "title_text": "",
+            "title_font_tag": "h2",
+            "section_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "pretty_comparison_tables_table_hYCk9b"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq_8AQkP4": {
@@ -956,6 +981,7 @@
     "multiple_images_with_text_GCdCBy",
     "impact_text_VVKKeR",
     "video_r8tVWC",
+    "1741704546d0daecc4",
     "faq_8AQkP4",
     "contact_tMdXJr",
     "174095048147fe994d",
