@@ -658,23 +658,10 @@
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
           }
-        },
-        "item_ankyLM": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
         }
       },
       "block_order": [
-        "item_T4HKyU",
-        "item_ankyLM"
+        "item_T4HKyU"
       ],
       "settings": {
         "full_width": true,
