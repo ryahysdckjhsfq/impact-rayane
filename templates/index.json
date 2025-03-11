@@ -921,10 +921,10 @@
         "accordion_text_color": ""
       }
     },
-    "1741705208ebba3a6b": {
+    "1741706100d05eb2b1": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_review_widget_homepage_cUfKiq": {
+        "judge_me_reviews_review_widget_homepage_rc76h8": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "product": "lumea-pigment-correcteur"
@@ -932,7 +932,7 @@
         }
       },
       "block_order": [
-        "judge_me_reviews_review_widget_homepage_cUfKiq"
+        "judge_me_reviews_review_widget_homepage_rc76h8"
       ],
       "settings": {
         "full_width": true,
@@ -963,6 +963,6 @@
     "video_r8tVWC",
     "1741704546d0daecc4",
     "faq_8AQkP4",
-    "1741705208ebba3a6b"
+    "1741706100d05eb2b1"
   ]
 }
