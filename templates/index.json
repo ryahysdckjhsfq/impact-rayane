@@ -9,6 +9,41 @@
  */
 {
   "sections": {
+    "impact_text_VVKKeR": {
+      "type": "impact-text",
+      "blocks": {
+        "item_WELy9Y": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Votre rituel éclat en 3 secondes !",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_WELy9Y"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image_with_text_overlay_CHAr4d": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -735,6 +770,32 @@
         "button_text_color": ""
       }
     },
+    "video_r8tVWC": {
+      "type": "video",
+      "blocks": {
+        "subheading_yCJzff": {
+          "type": "subheading",
+          "settings": {
+            "text": "Sur une peau propre, appliquez 3 gouttes matin et soir en massant délicatement... et laissez la magie opérer !"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_yCJzff"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/5927788-hd_1080_1920_25fps.mp4",
+        "mobile_video": "shopify://files/videos/5927788-hd_1080_1920_25fps.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 22
+      }
+    },
     "faq_8AQkP4": {
       "type": "faq",
       "blocks": {
@@ -893,6 +954,8 @@
     "tabs_rUHYbb",
     "impact_text_DUjyLn",
     "multiple_images_with_text_GCdCBy",
+    "impact_text_VVKKeR",
+    "video_r8tVWC",
     "faq_8AQkP4",
     "contact_tMdXJr",
     "174095048147fe994d",
