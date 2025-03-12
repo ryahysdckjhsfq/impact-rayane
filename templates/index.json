@@ -610,15 +610,7 @@
           "type": "tab",
           "settings": {
             "title": "Service client 7J/7",
-            "content": "<p>Une question ? Une hésitation ? <strong>Notre équipe est disponible tous les jours</strong> pour vous conseiller</p><p>Contactez-nous par <strong>email ou chat en direct</strong></p>",
-            "page": ""
-          }
-        },
-        "tab_BWY46K": {
-          "type": "tab",
-          "settings": {
-            "title": "Services Clients 7J/7",
-            "content": "<p>Notre équipe est disponible <strong>7J/7</strong> pour vous aider. Nous travaillons aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, ainsi que le samedi et dimanche de 10h à 12h.<strong> N'hésitez pas </strong>à nous contacter , nous serons ravis de <strong>vous assister</strong> !</p>",
+            "content": "<p>Une question ? Une hésitation ? <strong>Notre équipe est disponible tous les jours</strong> pour vous conseiller</p><p>Contactez-nous par <strong>email </strong></p>",
             "page": ""
           }
         }
@@ -627,8 +619,7 @@
         "tab_PkdNQa",
         "tab_8Vb3ad",
         "tab_k8RwnC",
-        "tab_LWrAEk",
-        "tab_BWY46K"
+        "tab_LWrAEk"
       ],
       "settings": {
         "full_width": true,
