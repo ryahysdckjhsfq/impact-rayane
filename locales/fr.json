@@ -99,8 +99,8 @@
       "sku": "SKU:",
       "variant": "Variant",
       "view_in_space": "Afficher dans votre espace",
-      "taxes_included": "Taxes inclues",
-      "taxes_excluded": "Taxes exclues",
+      "taxes_included": " ",
+      "taxes_excluded": " ",
       "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Frais d'envoi calculés</a> au paiement",
       "size_chart": "Guide des tailles",
       "available_colors_count": {
@@ -286,8 +286,8 @@
       "subtotal": "Sous-total",
       "discount": "Remise",
       "shipping": "Frais d'envoi",
-      "taxes_included": "Taxes inclues",
-      "taxes_excluded": "Taxes exclues",
+      "taxes_included": " ",
+      "taxes_excluded": " ",
       "total_duties": "Douanes",
       "refunded_amount": "Montant remboursé",
       "total": "Total",
@@ -334,7 +334,7 @@
       "taxes_and_shipping_policy_at_checkout_html": "Taxes et <a href=\"{{ link }}\" class=\"link\">frais d'expédition</a> calculés lors du paiement",
       "taxes_included_but_shipping_at_checkout": "Taxes incluses et frais d'expédition calculés lors du paiement",
       "taxes_included_and_shipping_policy_html": "Taxes incluses. <a href=\"{{ link }}\" class=\"link\">Frais d'expédition</a> calculés à l'étape de paiement.",
-      "taxes_and_shipping_at_checkout": "Taxes et frais d'expédition calculés lors du paiement",
+      "taxes_and_shipping_at_checkout": " ",
       "add_order_note": "Ajouter une note",
       "edit_order_note": "Modifier la note",
       "order_note": "Note de commande",
@@ -444,6 +444,36 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "general": {
+        "errors": {
+          "tax": {
+            "new_tax_must_be_accepted": " "
+          }
+        }
+      },
+      "order_summary": {
+        "taxes_label": " ",
+        "vat_label_html": " ",
+        "estimated_taxes_label": " ",
+        "information_estimated_taxes_label": " ",
+        "estimated_tax_label": " ",
+        "recurring_total_tooltip": " ",
+        "estimated_taxes_finalization_tooltip_content": " ",
+        "duties_and_taxes_label": " ",
+        "error_duties_tooltip": " ",
+        "duties_included_label": " "
+      },
+      "shipping": {
+        "duties_and_taxes_title": " "
+      },
+      "payment": {
+        "taxes_not_included": " ",
+        "no_taxes_banner_content": " ",
+        "waiting_on_taxes_message": " ",
+        "waiting_on_taxes_notice": " "
+      }
     }
   },
   "pagefly": {
@@ -489,6 +519,11 @@
       "signup_form_email_label": "Email",
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
+    }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "taxes": " "
     }
   }
 }
