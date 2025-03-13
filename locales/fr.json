@@ -463,7 +463,8 @@
         "estimated_taxes_finalization_tooltip_content": " ",
         "duties_and_taxes_label": " ",
         "error_duties_tooltip": " ",
-        "duties_included_label": " "
+        "duties_included_label": " ",
+        "shipping_label": "Livraison + Assurance Premium"
       },
       "shipping": {
         "duties_and_taxes_title": " "
