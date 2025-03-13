@@ -474,6 +474,9 @@
         "no_taxes_banner_content": " ",
         "waiting_on_taxes_message": " ",
         "waiting_on_taxes_notice": " "
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Suivre ma commande"
       }
     }
   },
@@ -524,7 +527,8 @@
   },
   "customer_accounts": {
     "order_details": {
-      "taxes": " "
+      "taxes": " ",
+      "marketing_checkbox_label": "Suivre ma commande"
     }
   }
 }
