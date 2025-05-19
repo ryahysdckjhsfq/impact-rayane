@@ -311,22 +311,11 @@
         "item_eRmte6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nature-Nad_3.png",
             "column_size": "3",
             "title": "Camille D.",
             "heading_tag": "h4",
-            "content": "<p>Je n’osais plus sortir sans maquillage à cause de mes taches. Après un mois avec Luméa Skincare, mon teint est plus net et lumineux. Je revis !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_64MHbe": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Emma L.",
-            "heading_tag": "h4",
-            "content": "<p>J’avais peur que ce soit encore un produit qui promet beaucoup sans résultats… mais wow ! En trois semaines, mes taches ont presque disparus. Je recommande à 100 %.</p>",
+            "content": "<p>Depuis que je prends <strong>Nature Nad</strong>, ma peau a retrouvé un éclat que je n’espérais plus. Les traits sont moins tirés, le teint plus lumineux, presque rosé. Je me regarde enfin dans le miroir avec plaisir. Et mentalement, je suis beaucoup plus vive.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -337,8 +326,7 @@
         "item_JrtQdC",
         "item_eWKkze",
         "item_Jp96dL",
-        "item_eRmte6",
-        "item_64MHbe"
+        "item_eRmte6"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
