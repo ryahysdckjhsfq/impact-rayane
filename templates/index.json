@@ -31,6 +31,7 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -38,6 +39,7 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -45,6 +47,7 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -52,6 +55,7 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -86,7 +90,7 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Pourquoi chosir notre serum anti tache ?",
+            "subheading": "Pourquoi choisir notre complément  ?",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -121,117 +125,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_19_mai_2025_22_14_53.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "impact_text_GdAUxV": {
-      "type": "impact-text",
-      "blocks": {
-        "item_qENqzA": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "La technologie anti-taches expliquée",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_qENqzA"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_Mf8C3y": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "impact_text_QMt8Tn": {
-      "type": "impact-text",
-      "blocks": {
-        "item_8JQqXB": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Résultat Avant/Après",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_8JQqXB"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "before_after_image_FrnKtr": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "",
-        "after_text": "",
-        "drag_initial_position": 55,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "trust_pilot_reviews_jNiAPL": {
@@ -877,10 +776,6 @@
     "logo_list_LbwUty",
     "impact_text_cbpyWe",
     "image_with_text_overlay_gwcfFr",
-    "impact_text_GdAUxV",
-    "image_with_text_overlay_Mf8C3y",
-    "impact_text_QMt8Tn",
-    "before_after_image_FrnKtr",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
