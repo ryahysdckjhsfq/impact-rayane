@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/image_banniere.png",
-        "mobile_image": "shopify://shop_images/Notee_4_85_1300_x_1500_px_6.png",
+        "image": "shopify://shop_images/POILS_INDESIRABLES_1.png",
+        "mobile_image": "shopify://shop_images/POILS_INDESIRABLES_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,6 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
             "logo_width": 300,
             "link": ""
           }
@@ -39,7 +38,6 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -47,7 +45,6 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -55,7 +52,6 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie-Claire-Logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -125,8 +121,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Image_benefices_technique.png",
-        "mobile_image": "shopify://shop_images/qokq_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -176,8 +170,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Comment_ca_marche.png",
-        "mobile_image": "shopify://shop_images/Comment_ca_marche.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -227,10 +219,6 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/image_avant.png",
-        "before_image_mobile": "shopify://shop_images/image.png",
-        "after_image": "shopify://shop_images/image_apres.png",
-        "after_image_mobile": "shopify://shop_images/image_apres_tache.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -275,7 +263,6 @@
         "stars_size": 44,
         "stars_size_mobile": 36,
         "text": "<p>Basé sur +1000 avis </p>",
-        "text_right_image": "shopify://shop_images/trust_pilot_logo.png",
         "text_custom": false,
         "text_font": "poppins_n4",
         "text_size": 20,
@@ -386,7 +373,6 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/laserbehandeling-voor-pigmentvlekken-1.jpg",
             "column_size": "2",
             "title": "Sarah M.",
             "heading_tag": "h4",
@@ -399,7 +385,6 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/traitement-melasma-dermamelan-avant-apres-cannes.peg.webp",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
@@ -412,7 +397,6 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image-before-after-spot-melasma-260nw-1919373224.jpg",
             "column_size": "3",
             "title": "Inès T.",
             "heading_tag": "h4",
@@ -425,7 +409,6 @@
         "item_eRmte6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/imfg.webp",
             "column_size": "3",
             "title": "Camille D.",
             "heading_tag": "h4",
@@ -438,7 +421,6 @@
         "item_64MHbe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gentlemax-age-spots-jill-waibel-md-p1.jpg",
             "column_size": "3",
             "title": "Emma L.",
             "heading_tag": "h4",
@@ -510,24 +492,11 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\" id=\"stock-section\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\" id=\"stock-text\">En stock : 4 restants</div>\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    let stockText = document.getElementById(\"stock-text\");\n    let stockSection = document.getElementById(\"stock-section\");\n    let hasTriggered = false;\n\n    let observer = new IntersectionObserver(function(entries) {\n      if (entries[0].isIntersecting && !hasTriggered) {\n        hasTriggered = true;\n        setTimeout(function () {\n          stockText.innerHTML = \"En stock : 3 restants\";\n        }, 3000); // Change après 3 secondes une fois visible\n      }\n    }, { threshold: 0.5 });\n\n    observer.observe(stockSection);\n  });\n</script>"
           }
         },
-        "kaching_bundles_app_block_CWjpqd": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "image_Uej9TX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/derniere_chance_1.png",
             "alignment": "center",
             "max_width": 380
-          }
-        },
-        "essential_countdown_app_block_RWiB43": {
-          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cm84id06o006rliqwk0jaqw4w"
           }
         },
         "buy_buttons_iKQNEB": {
@@ -555,9 +524,7 @@
         "liquid_MX7UGC",
         "image_jVW4cF",
         "liquid_dkq3wi",
-        "kaching_bundles_app_block_CWjpqd",
         "image_Uej9TX",
-        "essential_countdown_app_block_RWiB43",
         "buy_buttons_iKQNEB",
         "liquid_dWrLFz"
       ],
@@ -676,7 +643,6 @@
         "item_tHqGqM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/sepimax-zen-gel-macro.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Diglucosyl Acide Gallique",
@@ -688,7 +654,6 @@
         "item_PxCTT6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/KAD.jpg",
             "image_rotation_degrees": 0.5,
             "subheading": "",
             "title": "Kojic Dipalmitate",
@@ -700,7 +665,6 @@
         "item_CiDWaE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ACIDE_HYALURONIQUE_NATUREL.webp",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Acide Hyaluronique",
@@ -779,8 +743,6 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "",
-        "mobile_video": "",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -789,20 +751,6 @@
     },
     "1741704546d0daecc4": {
       "type": "apps",
-      "blocks": {
-        "pretty_comparison_tables_table_hYCk9b": {
-          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
-          "settings": {
-            "product": "lumea-pigment-correcteur",
-            "title_text": "",
-            "title_font_tag": "h2",
-            "section_background_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "pretty_comparison_tables_table_hYCk9b"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -914,17 +862,6 @@
     },
     "1741706100d05eb2b1": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_rc76h8": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "lumea-pigment-correcteur"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_rc76h8"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
