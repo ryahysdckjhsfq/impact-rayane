@@ -298,10 +298,11 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nature-Nad_2.png",
             "column_size": "3",
             "title": "Inès T.",
             "heading_tag": "h4",
-            "content": "<p>J’avais toujours besoin de maquillage pour cacher mes taches, mais maintenant je me sens bien sans. Lumea Skincare a vraiment transformé ma peau. Meilleur achat de ma vie !</p>",
+            "content": "<p>Mon visage paraît plus jeune, plus frais, comme repulpé de l’intérieur. On m’a même demandé si j’avais changé de crème ! Le glow est réel. Et je ressens moins de fatigue, même après mes journées chargées.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
