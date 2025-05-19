@@ -285,10 +285,11 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nature-Nad_1.png",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
-            "content": "<p>Idéal pour une routine simple et efficace. La texture est légère, ma peau l’absorbe rapidement, et surtout, mes taches commencent enfin à s’atténuer. Un vrai changement !</p>",
+            "content": "<p>Les rides se sont visiblement estompées, ma peau a gagné en souplesse et en luminosité. Ce n’est pas juste un complément : c’est un élixir de jeunesse. Et ce petit regain d’énergie quotidien est la cerise sur le gâteau.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
