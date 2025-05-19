@@ -272,10 +272,11 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nature-Nad.png",
             "column_size": "2",
             "title": "Sarah M.",
             "heading_tag": "h4",
-            "content": "<p>J’ai testé tellement de crèmes contre les taches sans résultat… mais celle-ci est incroyable ! En quelques semaines, mon teint est déjà plus uniforme et mes taches ont disparus. Je ne peux plus m’en passer.</p>",
+            "content": "<p>Je retrouve enfin une peau que je pensais perdue. Plus lisse, plus ferme, et surtout ce glow naturel que je n’avais plus vu depuis mes 30 ans. Même mon teint est plus éclatant. <strong>Nature Nad</strong> m’a redonné confiance — et de l’énergie !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
