@@ -397,6 +397,12 @@
             "max_width": 380
           }
         },
+        "countdown_timer_essential_app_block_YXBBfy": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmawf1svl003o65tuk9rmnbmm"
+          }
+        },
         "buy_buttons_iKQNEB": {
           "type": "buy_buttons",
           "settings": {
@@ -424,6 +430,7 @@
         "liquid_dkq3wi",
         "kaching_bundles_app_block_YJAQCQ",
         "image_Uej9TX",
+        "countdown_timer_essential_app_block_YXBBfy",
         "buy_buttons_iKQNEB",
         "liquid_dWrLFz"
       ],
