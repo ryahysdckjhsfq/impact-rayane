@@ -684,7 +684,7 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Votre rituel éclat en 3 secondes !",
+            "subheading": "Votre rituel jeunesse en 3 secondes !",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -718,7 +718,7 @@
         "subheading_yCJzff": {
           "type": "subheading",
           "settings": {
-            "text": "Sur une peau propre, appliquez 3 gouttes matin et soir en massant délicatement... et laissez la magie opérer !"
+            "text": "Prenez 2 gélules chaque matin avec un verre d’eau. Des résultats visibles dès les premières semaines."
           }
         }
       },
@@ -730,10 +730,12 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/istockphoto-2074802002-640_adpp_is.mp4",
+        "mobile_video": "shopify://files/videos/istockphoto-2074802002-640_adpp_is.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 22
+        "overlay_opacity": 33
       }
     },
     "1741704546d0daecc4": {
