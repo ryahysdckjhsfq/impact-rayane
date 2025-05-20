@@ -74,8 +74,8 @@
         "discount"
       ],
       "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
+        "full_width": false,
+        "stack_on_mobile": false,
         "title": "",
         "heading_tag": "h6",
         "text_alignment": "center",
