@@ -414,6 +414,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_q6wqEm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4055511F-3F53-4855-AD2A-ED04598BC144.png",
+            "alignment": "center",
+            "max_width": 290
+          }
+        },
         "liquid_gTwQdR": {
           "type": "liquid",
           "settings": {
@@ -432,6 +440,7 @@
         "image_Uej9TX",
         "countdown_timer_essential_app_block_YXBBfy",
         "buy_buttons_iKQNEB",
+        "image_q6wqEm",
         "liquid_gTwQdR"
       ],
       "settings": {
