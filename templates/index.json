@@ -807,15 +807,8 @@
         "item_xPrMzy": {
           "type": "item",
           "settings": {
-            "title": "Peut-il être utilisé pendant la grossesse ou l’allaitement ?",
-            "content": "<p>Oui, sa formule <strong>sans ingrédients controversés</strong> est adaptée aux femmes enceintes et allaitantes. Toutefois, si vous avez des doutes, nous vous conseillons de consulter votre dermatologue.</p>"
-          }
-        },
-        "item_xYwh8W": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle est la contenance d’un flacon ?",
-            "content": "<p>Un flacon de <strong>20 ml</strong> dure <strong>1 mois</strong> en moyenne avec une utilisation quotidienne.</p>"
+            "title": "Combien de gélules contient un flacon ?",
+            "content": "<p>Chaque flacon contient 60 gélules, soit 30 jours de cure à raison de 2 gélules par jour</p>"
           }
         },
         "item_7AJMh4": {
@@ -840,7 +833,6 @@
         "item_qE6Ebc",
         "item_igURbp",
         "item_xPrMzy",
-        "item_xYwh8W",
         "item_7AJMh4",
         "item_RRz4wN"
       ],
