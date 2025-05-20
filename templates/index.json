@@ -690,50 +690,50 @@
         "item_CnFdVm": {
           "type": "item",
           "settings": {
-            "title": "Ce produit est-il adapté à mon type de peau ?",
-            "content": "<p>Oui ! Luméa Pigment Correcteur est conçu pour <strong>tous les types de peau</strong>, y compris <strong>les peaux sensibles</strong>. Sa formule douce est testée dermatologiquement et ne contient pas d'ingrédients agressifs.</p>"
+            "title": "Ce produit convient-il à tous les âges ?",
+            "content": "<p>Oui, il est formulé pour les personnes de plus de 35 ans qui souhaitent ralentir les signes visibles de l’âge, retrouver une peau éclatante et stimuler leur énergie naturelle.</p>"
           }
         },
         "item_YPj3tn": {
           "type": "item",
           "settings": {
-            "title": "En combien de temps vais-je voir des résultats ?",
-            "content": "<p>Les premiers résultats sont visibles en <strong>2 à 3 jours</strong> avec une utilisation quotidienne. Pour un <strong>teint visiblement plus uniforme</strong>, nous recommandons une utilisation de <strong>2 à 3 semaines</strong>. Les résultats peuvent varier selon chaque peau.</p>"
+            "title": "Quand vais-je commencer à voir des résultats ?",
+            "content": "<p>La plupart de nos clients ressentent un regain d’énergie dès les 10 premiers jours. Les effets sur la peau apparaissent progressivement dès la 3e semaine de cure.</p>"
           }
         },
         "item_GDpRbw": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ce sérum est efficace sur les anciennes taches ?",
-            "content": "<p>Oui ! Luméa Pigment Correcteur agit aussi bien sur <strong>les taches récentes que celles installées depuis longtemps</strong> (taches d’hyperpigmentation, post-acné, soleil, vieillissement).</p>"
+            "title": "Est-il vraiment efficace contre le vieillissement cutané ?",
+            "content": "<p>Oui. Notre formule combine du NAD+ liposomal et du Résvératrol, deux actifs reconnus scientifiquement pour ralentir le vieillissement cellulaire et améliorer l’éclat de la peau.</p>"
           }
         },
         "item_qE6Ebc": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l'utiliser avec ma routine skincare habituelle ?",
-            "content": "<p>Oui, ce sérum s’intègre parfaitement à votre routine ! Appliquez-le <strong>après votre nettoyant</strong> et <strong>avant votre crème hydratante</strong>. Pour maximiser l’effet anti-taches, <strong>utilisez une protection solaire (SPF 30 minimum) en journée</strong>.</p>"
+            "title": "Puis-je le prendre avec mes compléments actuels ?",
+            "content": "<p>Oui, Nature Nad est compatible avec la majorité des compléments alimentaires. En cas de doute, demandez conseil à un professionnel de santé.</p>"
           }
         },
         "item_igURbp": {
           "type": "item",
           "settings": {
             "title": "Est-ce que ce produit blanchit la peau ?",
-            "content": "<p>Non ! Contrairement aux crèmes dépigmentantes agressives, Luméa Pigment Correcteur <strong>ne blanchit pas la peau</strong>. Il <strong>unifie et éclaircit uniquement les zones hyperpigmentées</strong> pour un teint naturel et lumineux.</p>"
+            "content": "<p>Non, Nature Nad n’a aucun effet dépigmentant. Il agit au niveau cellulaire pour améliorer la tonicité, la fermeté et la luminosité de la peau.</p>"
           }
         },
         "item_xPrMzy": {
           "type": "item",
           "settings": {
             "title": "Peut-il être utilisé pendant la grossesse ou l’allaitement ?",
-            "content": "<p>Oui, sa formule <strong>sans ingrédients controversés</strong> est adaptée aux femmes enceintes et allaitantes. Toutefois, si vous avez des doutes, nous vous conseillons de consulter votre dermatologue.</p>"
+            "content": "<p>Par principe de précaution, nous déconseillons son usage pendant la grossesse ou l’allaitement, sauf avis médical favorable.</p>"
           }
         },
         "item_xYwh8W": {
           "type": "item",
           "settings": {
-            "title": "Quelle est la contenance d’un flacon ?",
-            "content": "<p>Un flacon de <strong>20 ml</strong> dure <strong>1 mois</strong> en moyenne avec une utilisation quotidienne.</p>"
+            "title": "Combien de gélules contient un flacon ?",
+            "content": "<p>Chaque flacon contient 60 gélules, soit 30 jours de cure à raison de 2 gélules par jour.</p>"
           }
         },
         "item_7AJMh4": {
