@@ -718,8 +718,8 @@
         "item_igURbp": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ce produit blanchit la peau ?",
-            "content": "<p>Non, Nature Nad n’a aucun effet dépigmentant. Il agit au niveau cellulaire pour améliorer la tonicité, la fermeté et la luminosité de la peau.</p>"
+            "title": "Ce complément a-t-il des effets secondaires ?",
+            "content": "<p>Nature Nad est formulé à partir d’ingrédients naturels, sans OGM, ni additifs controversés. À ce jour, aucun effet secondaire n’a été rapporté.</p>"
           }
         },
         "item_xPrMzy": {
