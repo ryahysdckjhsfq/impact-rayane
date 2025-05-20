@@ -468,6 +468,68 @@
         "input_text_color": ""
       }
     },
+    "multi_column_maP9ym": {
+      "type": "multi-column",
+      "blocks": {
+        "item_H74aCp": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Creas infirmière chirurgie NAD.mov",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XXBHyY": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Créas secret des stars NAD +.mov",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MBLYcW": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Infirmière blouse blanche .mov",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_H74aCp",
+        "item_XXBHyY",
+        "item_MBLYcW"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Pourquoi prendre du NAD ?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_rUHYbb": {
       "type": "tabs",
       "blocks": {
@@ -475,7 +537,7 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<p>500 mg de NAD⁺ liposomal par dose<br/><br/>Avec Résvératrol pour une action synergique<br/><br/>Formule liposomale pour une absorption optimale<br/><br/>100 % naturel – sans OGM, sans gluten, sans additifs</p>",
+            "content": "<p><strong>Formule avancée anti-taches</strong></p><p>Atténue visiblement les taches pigmentaires, marques d’acné et irrégularités du teint</p><p>Contient des actifs puissants comme le <strong>Diglucosyl Gallic Acid</strong> et la <strong>Kojic Dipalmitate</strong></p><p>Convient à <strong>tous types de peau</strong>, même les plus sensibles</p>",
             "page": ""
           }
         },
@@ -483,7 +545,7 @@
           "type": "tab",
           "settings": {
             "title": "Garantie 30 jours",
-            "content": "<p>Essayez Nature Nad sans risque :<br/><br/>Si vous n'êtes pas satisfait(e), nous vous remboursons intégralement dans les 30 jours.</p>",
+            "content": "<p>Essayez Luméa Pigment Correcteur <strong>sans risque pendant 30 jours</strong></p><p>Si vous n’êtes pas satisfait(e), nous vous remboursons </p>",
             "page": ""
           }
         },
@@ -565,6 +627,7 @@
         "item_tHqGqM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/acide_hyal.gif",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Diglucosyl Acide Gallique",
@@ -576,6 +639,7 @@
         "item_PxCTT6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Molecule.gif",
             "image_rotation_degrees": 0.5,
             "subheading": "",
             "title": "Kojic Dipalmitate",
@@ -587,6 +651,7 @@
         "item_CiDWaE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gif_gal.gif",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Acide Hyaluronique",
@@ -619,7 +684,7 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Votre rituel jeunesse en 3 secondes !",
+            "subheading": "Votre rituel éclat en 3 secondes !",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -653,7 +718,7 @@
         "subheading_yCJzff": {
           "type": "subheading",
           "settings": {
-            "text": "Prenez 2 gélules chaque matin avec un verre d’eau.Des résultats visibles dès les premières semaines !"
+            "text": "Sur une peau propre, appliquez 3 gouttes matin et soir en massant délicatement... et laissez la magie opérer !"
           }
         }
       },
@@ -665,12 +730,10 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/istockphoto-2074802002-640_adpp_is.mp4",
-        "mobile_video": "shopify://files/videos/istockphoto-2074802002-640_adpp_is.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 28
+        "overlay_opacity": 22
       }
     },
     "1741704546d0daecc4": {
@@ -684,56 +747,73 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_BXnr8j": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Sav.png",
+        "mobile_image": "shopify://shop_images/Sav.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_8AQkP4": {
       "type": "faq",
       "blocks": {
         "item_CnFdVm": {
           "type": "item",
           "settings": {
-            "title": "Ce produit convient-il à tous les âges ?",
-            "content": "<p>Oui, il est formulé pour les personnes de plus de 35 ans qui souhaitent ralentir les signes visibles de l’âge, retrouver une peau éclatante et stimuler leur énergie naturelle.</p>"
+            "title": "Ce produit est-il adapté à mon type de peau ?",
+            "content": "<p>Oui ! Luméa Pigment Correcteur est conçu pour <strong>tous les types de peau</strong>, y compris <strong>les peaux sensibles</strong>. Sa formule douce est testée dermatologiquement et ne contient pas d'ingrédients agressifs.</p>"
           }
         },
         "item_YPj3tn": {
           "type": "item",
           "settings": {
-            "title": "Quand vais-je commencer à voir des résultats ?",
-            "content": "<p>La plupart de nos clients ressentent un regain d’énergie dès les 10 premiers jours. Les effets sur la peau apparaissent progressivement dès la 3e semaine de cure.</p>"
+            "title": "En combien de temps vais-je voir des résultats ?",
+            "content": "<p>Les premiers résultats sont visibles en <strong>2 à 3 jours</strong> avec une utilisation quotidienne. Pour un <strong>teint visiblement plus uniforme</strong>, nous recommandons une utilisation de <strong>2 à 3 semaines</strong>. Les résultats peuvent varier selon chaque peau.</p>"
           }
         },
         "item_GDpRbw": {
           "type": "item",
           "settings": {
-            "title": "Est-il vraiment efficace contre le vieillissement cutané ?",
-            "content": "<p>Oui. Notre formule combine du NAD+ liposomal et du Résvératrol, deux actifs reconnus scientifiquement pour ralentir le vieillissement cellulaire et améliorer l’éclat de la peau.</p>"
+            "title": "Est-ce que ce sérum est efficace sur les anciennes taches ?",
+            "content": "<p>Oui ! Luméa Pigment Correcteur agit aussi bien sur <strong>les taches récentes que celles installées depuis longtemps</strong> (taches d’hyperpigmentation, post-acné, soleil, vieillissement).</p>"
           }
         },
         "item_qE6Ebc": {
           "type": "item",
           "settings": {
-            "title": "Puis-je le prendre avec mes compléments actuels ?",
-            "content": "<p>Oui, Nature Nad est compatible avec la majorité des compléments alimentaires. En cas de doute, demandez conseil à un professionnel de santé.</p>"
+            "title": "Puis-je l'utiliser avec ma routine skincare habituelle ?",
+            "content": "<p>Oui, ce sérum s’intègre parfaitement à votre routine ! Appliquez-le <strong>après votre nettoyant</strong> et <strong>avant votre crème hydratante</strong>. Pour maximiser l’effet anti-taches, <strong>utilisez une protection solaire (SPF 30 minimum) en journée</strong>.</p>"
           }
         },
         "item_igURbp": {
           "type": "item",
           "settings": {
-            "title": "Ce complément a-t-il des effets secondaires ?",
-            "content": "<p>Nature Nad est formulé à partir d’ingrédients naturels, sans OGM, ni additifs controversés. À ce jour, aucun effet secondaire n’a été rapporté.</p>"
+            "title": "Est-ce que ce produit blanchit la peau ?",
+            "content": "<p>Non ! Contrairement aux crèmes dépigmentantes agressives, Luméa Pigment Correcteur <strong>ne blanchit pas la peau</strong>. Il <strong>unifie et éclaircit uniquement les zones hyperpigmentées</strong> pour un teint naturel et lumineux.</p>"
           }
         },
         "item_xPrMzy": {
           "type": "item",
           "settings": {
             "title": "Peut-il être utilisé pendant la grossesse ou l’allaitement ?",
-            "content": "<p>Par principe de précaution, nous déconseillons son usage pendant la grossesse ou l’allaitement, sauf avis médical favorable.</p>"
+            "content": "<p>Oui, sa formule <strong>sans ingrédients controversés</strong> est adaptée aux femmes enceintes et allaitantes. Toutefois, si vous avez des doutes, nous vous conseillons de consulter votre dermatologue.</p>"
           }
         },
         "item_xYwh8W": {
           "type": "item",
           "settings": {
-            "title": "Combien de gélules contient un flacon ?",
-            "content": "<p>Chaque flacon contient 60 gélules, soit 30 jours de cure à raison de 2 gélules par jour.</p>"
+            "title": "Quelle est la contenance d’un flacon ?",
+            "content": "<p>Un flacon de <strong>20 ml</strong> dure <strong>1 mois</strong> en moyenne avec une utilisation quotidienne.</p>"
           }
         },
         "item_7AJMh4": {
@@ -804,12 +884,14 @@
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
+    "multi_column_maP9ym",
     "tabs_rUHYbb",
     "impact_text_DUjyLn",
     "multiple_images_with_text_GCdCBy",
     "impact_text_VVKKeR",
     "video_r8tVWC",
     "1741704546d0daecc4",
+    "image_with_text_overlay_BXnr8j",
     "faq_8AQkP4",
     "1741706100d05eb2b1"
   ]
