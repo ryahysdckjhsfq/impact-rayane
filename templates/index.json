@@ -90,7 +90,7 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Pourquoi choisir notre complément  ?",
+            "subheading": "Pourquoi choisir un complément NAD+ ?",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -125,7 +125,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_19_mai_2025_22_14_53.png",
+        "image": "shopify://shop_images/Images_benefices.png",
+        "mobile_image": "shopify://shop_images/Images_benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -273,7 +274,7 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Nature-Nad.png",
+            "image": "shopify://shop_images/Image_av_ap_rides.png",
             "column_size": "2",
             "title": "Sarah M.",
             "heading_tag": "h4",
@@ -286,7 +287,7 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Nature-Nad_1.png",
+            "image": "shopify://shop_images/image_av_ap_patte.png",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
@@ -299,9 +300,9 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Nature-Nad_2.png",
+            "image": "shopify://shop_images/image_avant_apres_homme.png",
             "column_size": "3",
-            "title": "Inès T.",
+            "title": "Jean Marc K.",
             "heading_tag": "h4",
             "content": "<p>Mon visage paraît plus jeune, plus frais, comme repulpé de l’intérieur. On m’a même demandé si j’avais changé de crème ! Le glow est réel. Et je ressens moins de fatigue, même après mes journées chargées.</p>",
             "link_url": "",
