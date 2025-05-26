@@ -384,24 +384,12 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\" id=\"stock-section\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\" id=\"stock-text\">En stock : 6 restants</div>\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    let stockText = document.getElementById(\"stock-text\");\n    let stockSection = document.getElementById(\"stock-section\");\n    let hasTriggered = false;\n\n    let observer = new IntersectionObserver(function(entries) {\n      if (entries[0].isIntersecting && !hasTriggered) {\n        hasTriggered = true;\n        setTimeout(function () {\n          stockText.innerHTML = \"En stock : 5 restants\";\n        }, 3000); // Change après 3 secondes une fois visible\n      }\n    }, { threshold: 0.5 });\n\n    observer.observe(stockSection);\n  });\n</script>"
           }
         },
-        "kaching_bundles_app_block_YJAQCQ": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "image_Uej9TX": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/derniere_chance_2.png",
             "alignment": "center",
             "max_width": 380
-          }
-        },
-        "countdown_timer_essential_app_block_YXBBfy": {
-          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmawf1svl003o65tuk9rmnbmm"
           }
         },
         "liquid_gTwQdR": {
@@ -443,9 +431,7 @@
         "liquid_MX7UGC",
         "image_jVW4cF",
         "liquid_dkq3wi",
-        "kaching_bundles_app_block_YJAQCQ",
         "image_Uej9TX",
-        "countdown_timer_essential_app_block_YXBBfy",
         "liquid_gTwQdR",
         "buy_buttons_iKQNEB",
         "image_q6wqEm",
@@ -475,7 +461,6 @@
         "item_H74aCp": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/Creas infirmière chirurgie NAD.mov",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -488,7 +473,6 @@
         "item_XXBHyY": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/Créas secret des stars NAD +.mov",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -501,7 +485,6 @@
         "item_MBLYcW": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/Infirmière blouse blanche .mov",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -731,8 +714,6 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "",
-        "mobile_video": "",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
