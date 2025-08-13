@@ -16,8 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/POILS_INDESIRABLES_1.png",
-        "mobile_image": "shopify://shop_images/POILS_INDESIRABLES_1.png",
+        "image": "shopify://shop_images/En-tete_5.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +30,7 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo": "shopify://shop_images/logo-magicmaman.png",
             "logo_width": 300,
             "link": ""
           }
@@ -39,7 +38,7 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
+            "logo": "shopify://shop_images/Logo_de_Doctissimo.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -47,7 +46,7 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Vogue-Logo_1.png",
+            "logo": "shopify://shop_images/unnamed_2.png",
             "logo_width": 300,
             "link": ""
           }
@@ -55,7 +54,7 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo": "shopify://shop_images/2560px-France_2_-_logo_2018_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -83,41 +82,6 @@
         "logo_item_border": ""
       }
     },
-    "impact_text_cbpyWe": {
-      "type": "impact-text",
-      "blocks": {
-        "item_CLcpyc": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Pourquoi choisir un complément NAD+ ?",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_CLcpyc"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "image_with_text_overlay_gwcfFr": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -125,8 +89,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/BENEFICES_2.png",
-        "mobile_image": "shopify://shop_images/BENEFICES_2.png",
+        "image": "shopify://shop_images/6_benefices_3.png",
+        "mobile_image": "shopify://shop_images/6_benefices_3_a7d70445-1fda-4b04-a0b9-cc94cbd48d53.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -142,7 +106,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Nos clientes en parlent le mieux",
+        "heading": "Voyez le par vous-même",
         "heading_custom": true,
         "heading_font": "poppins_n4",
         "heading_size": 38,
@@ -163,7 +127,6 @@
         "stars_size": 44,
         "stars_size_mobile": 36,
         "text": "<p>Basé sur +5000 avis </p>",
-        "text_right_image": "shopify://shop_images/images_1.png",
         "text_custom": false,
         "text_font": "poppins_n4",
         "text_size": 20,
@@ -274,11 +237,11 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Image_av_ap_rides.png",
+            "video": "shopify://files/videos/49493bdabc3245c0853d2001f6d33c16.HD-1080p-7.2Mbps-51796633.mp4",
             "column_size": "2",
             "title": "Sarah M.",
             "heading_tag": "h4",
-            "content": "<p>Je retrouve enfin une peau que je pensais perdue. Plus lisse, plus ferme, et surtout ce glow naturel que je n’avais plus vu depuis mes 30 ans. Même mon teint est plus éclatant. <strong>Nature Nad</strong> m’a redonné confiance — et de l’énergie !</p>",
+            "content": "<p>Mon fils Lucas (8 ans) me suppliait de le laisser se préparer seul pour la piscine. Avec ses anciennes lunettes, impossible ...Il se battait 10 minutes avec les sangles. Maintenant il les met en 2 secondes et fonce dans l'eau. Je le regarde de loin avec le sourire. Merci de l'avoir rendu plus autonome ! </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -287,11 +250,11 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_av_ap_patte.png",
+            "video": "shopify://files/videos/794a4348ad4841269d9a469b2895c350.HD-1080p-4.8Mbps-51796635.mp4",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
-            "content": "<p>Les rides se sont visiblement estompées, ma peau a gagné en souplesse et en luminosité. Ce n’est pas juste un complément : c’est un élixir de jeunesse. Et ce petit regain d’énergie quotidien est la cerise sur le gâteau.</p>",
+            "content": "<p>J'avais testé 4 marques différentes en 2 ans. Toujours les même problèmes : buée au bout de 5 minutes, bouchons d'oreille à acheter séparément, sangles qui cassent ... la j'ai TOUT dans un seul produit et ça marche vraiment ! Mon fils de 6 ans nage maintenant sans interruption pendant 2h. Investissement rentabilisé dès la première baignade. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -300,24 +263,11 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_avant_apres_homme.png",
+            "video": "shopify://files/videos/2b48d192643d4d4aa814d029ad71df98.HD-1080p-4.8Mbps-51796634.mp4",
             "column_size": "3",
-            "title": "Jean Marc K.",
+            "title": "Julie D",
             "heading_tag": "h4",
-            "content": "<p>Mon visage paraît plus jeune, plus frais, comme repulpé de l’intérieur. On m’a même demandé si j’avais changé de crème ! Le glow est réel. Et je ressens moins de fatigue, même après mes journées chargées.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_eRmte6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Nature-Nad_3.png",
-            "column_size": "3",
-            "title": "Camille D.",
-            "heading_tag": "h4",
-            "content": "<p>Depuis que je prends <strong>Nature Nad</strong>, ma peau a retrouvé un éclat que je n’espérais plus. Les traits sont moins tirés, le teint plus lumineux, presque rosé. Je me regarde enfin dans le miroir avec plaisir. Et mentalement, je suis beaucoup plus vive.</p>",
+            "content": "<p>J'avais testé 4 marques différentes en 2 ans. Toujours les même problèmes : buée au bout de 5 minutes, bouchons d'oreille à acheter séparément, sangles qui cassent ... la j'ai TOUT dans un seul produit et ça marche vraiment ! Mon fils de 6 ans nage maintenant sans interruption pendant 2h. Investissement rentabilisé dès la première baignade. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -327,8 +277,7 @@
       "block_order": [
         "item_JrtQdC",
         "item_eWKkze",
-        "item_Jp96dL",
-        "item_eRmte6"
+        "item_Jp96dL"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -387,7 +336,6 @@
         "image_Uej9TX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/derniere_chance_2.png",
             "alignment": "center",
             "max_width": 380
           }
@@ -412,7 +360,6 @@
         "image_q6wqEm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4055511F-3F53-4855-AD2A-ED04598BC144.png",
             "alignment": "center",
             "max_width": 290
           }
@@ -611,7 +558,6 @@
         "item_tHqGqM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/acide_hyal.gif",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "LipoNAD™ Liposomal",
@@ -623,7 +569,6 @@
         "item_PxCTT6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Molecule.gif",
             "image_rotation_degrees": 0.5,
             "subheading": "",
             "title": "Trans-Résvératrol",
@@ -635,7 +580,6 @@
         "item_CiDWaE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gif_gal.gif",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "β-NAD⁺ ≥ 250 %",
@@ -739,8 +683,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Sav.png",
-        "mobile_image": "shopify://shop_images/Sav.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -855,7 +797,6 @@
   "order": [
     "image_with_text_overlay_CHAr4d",
     "logo_list_LbwUty",
-    "impact_text_cbpyWe",
     "image_with_text_overlay_gwcfFr",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
