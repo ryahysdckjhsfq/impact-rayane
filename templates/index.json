@@ -295,6 +295,21 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_WHxVmM": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/HYDROCLIP.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "featured_product_KTD6Bx": {
       "type": "featured-product",
       "blocks": {
@@ -800,6 +815,7 @@
     "image_with_text_overlay_gwcfFr",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
+    "image_with_text_overlay_WHxVmM",
     "featured_product_KTD6Bx",
     "multi_column_maP9ym",
     "tabs_rUHYbb",
