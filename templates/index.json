@@ -16,7 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/En-tete_5.webp",
+        "image": "",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
@@ -30,7 +30,7 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-magicmaman.png",
+            "logo": "",
             "logo_width": 300,
             "link": ""
           }
@@ -38,7 +38,7 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo_de_Doctissimo.jpg",
+            "logo": "",
             "logo_width": 300,
             "link": ""
           }
@@ -46,7 +46,7 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/unnamed_2.png",
+            "logo": "",
             "logo_width": 300,
             "link": ""
           }
@@ -54,7 +54,7 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2560px-France_2_-_logo_2018_svg.png",
+            "logo": "",
             "logo_width": 300,
             "link": ""
           }
@@ -89,8 +89,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/6_benefices_3.png",
-        "mobile_image": "shopify://shop_images/6_benefices_3_a7d70445-1fda-4b04-a0b9-cc94cbd48d53.png",
+        "image": "",
+        "mobile_image": "",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -237,7 +237,7 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/49493bdabc3245c0853d2001f6d33c16.HD-1080p-7.2Mbps-51796633.mp4",
+            "video": "",
             "column_size": "2",
             "title": "Sarah M.",
             "heading_tag": "h4",
@@ -250,7 +250,7 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/794a4348ad4841269d9a469b2895c350.HD-1080p-4.8Mbps-51796635.mp4",
+            "video": "",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
@@ -263,7 +263,7 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/2b48d192643d4d4aa814d029ad71df98.HD-1080p-4.8Mbps-51796634.mp4",
+            "video": "",
             "column_size": "3",
             "title": "Julie D",
             "heading_tag": "h4",
@@ -302,7 +302,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/HYDROCLIP.png",
+        "image": "",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
