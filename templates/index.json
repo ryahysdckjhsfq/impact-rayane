@@ -403,6 +403,12 @@
             "max_width": 500
           }
         },
+        "countdown_timer_essential_app_block_UtnVxb": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmf0728mp0023ussn5nkas524"
+          }
+        },
         "liquid_N4htqN": {
           "type": "liquid",
           "settings": {
@@ -436,7 +442,7 @@
         "liquid_QTjeEx": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Vous sentez les signes du temps s’installer malgré une bonne hygiène de vie ? Nature Nad cible le cœur du vieillissement cellulaire grâce à une combinaison puissante de NAD+ et de Résvératrol. Résultat : une peau visiblement plus ferme, un regain d’énergie, et un mental plus clair. 100 % naturel, sans compromis. Pourquoi attendre de vous sentir éteinte pour rallumer votre vitalité ?\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Leblanc</span>\n            </div>\n        </div>\n    </div>"
+            "liquid": "<div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Pendant la croissance, l’apport en nutriments essentiels comme le calcium, la vitamine D3 et le zinc est primordial. Ces éléments participent au bon développement des os et soutiennent l’immunité au quotidien. J’apprécie particulièrement ce complément sous forme de gummies : il rend la prise simple et agréable pour les enfants, tout en garantissant un dosage adapté. Une solution pratique qui facilite la vie des parents\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Moreau, Pédiatre</span>\n            </div>\n        </div>\n    </div>"
           }
         }
       },
@@ -449,6 +455,7 @@
         "image_NMdy6m",
         "kaching_bundles_app_block_bMxfig",
         "image_nh8JtV",
+        "countdown_timer_essential_app_block_UtnVxb",
         "liquid_N4htqN",
         "buy_buttons_iKQNEB",
         "liquid_nBqajL",
