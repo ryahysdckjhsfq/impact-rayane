@@ -705,43 +705,43 @@
         "item_CnFdVm": {
           "type": "item",
           "settings": {
-            "title": "Ce produit convient-il à tous les âges ?",
-            "content": "<p>Oui, il est formulé pour les personnes de plus de 35 ans qui souhaitent ralentir les signes visibles de l’âge, retrouver une peau éclatante et stimuler leur énergie naturelle.</p>"
+            "title": "À partir de quel âge peut-on prendre les gummies de croissance Nutrikid ?",
+            "content": "<p>Les gummies conviennent dès l’âge de 5 ans. Ils ont été formulés pour accompagner la croissance naturelle des enfants et des adolescents en toute sécurité.</p>"
           }
         },
         "item_YPj3tn": {
           "type": "item",
           "settings": {
-            "title": "Quand vais-je commencer à voir des résultats ?",
-            "content": "<p>La plupart de nos clients ressentent un regain d’énergie dès les 10 premiers jours. Les effets sur la peau apparaissent progressivement dès la 3e semaine de cure.</p>"
+            "title": "Combien de gummies par jour faut-il prendre ?",
+            "content": "<p>La dose recommandée est de 2 gummies par jour, de préférence après un repas, pour une meilleure absorption des nutriments.</p>"
           }
         },
         "item_GDpRbw": {
           "type": "item",
           "settings": {
-            "title": "Est-il vraiment efficace contre le vieillissement cutané ?",
-            "content": "<p>Oui. Notre formule combine du NAD+ liposomal et du Résvératrol, deux actifs reconnus scientifiquement pour ralentir le vieillissement cellulaire et améliorer l’éclat de la peau.</p>"
+            "title": "Quels sont les principaux ingrédients des gummies de croissance Nutrikid ?",
+            "content": "<p>Chaque gummy contient un mélange de nutriments essentiels : calcium, vitamine D3, zinc, magnésium, L-arginine et ashwagandha, ainsi que plus de 40 autres vitamines et minéraux soutenant la croissance, l’énergie et l’immunité.</p>"
           }
         },
         "item_qE6Ebc": {
           "type": "item",
           "settings": {
-            "title": "Puis-je le prendre avec mes compléments actuels ?",
-            "content": "<p>Oui, Nature Nad est compatible avec la majorité des compléments alimentaires. En cas de doute, demandez conseil à un professionnel de santé.</p>"
+            "title": "Est-ce que c’est sûr pour les enfants ?",
+            "content": "<p>Oui, la formule est sans hormones, sans OGM, sans gluten, végan, et testée par des laboratoires indépendants. Elle est spécialement conçue pour les enfants et les adolescents.</p>"
           }
         },
         "item_igURbp": {
           "type": "item",
           "settings": {
-            "title": "Ce complément a-t-il des effets secondaires ?",
-            "content": "<p>Nature Nad est formulé à partir d’ingrédients naturels, sans OGM, ni additifs controversés. À ce jour, aucun effet secondaire n’a été rapporté.</p>"
+            "title": "Combien de temps faut-il pour voir les résultats ?",
+            "content": "<p>Les premiers effets se remarquent souvent après quelques semaines (meilleur sommeil, appétit, énergie). En 2 à 3 mois, de nombreux parents constatent une croissance visible de plusieurs centimètres.</p>"
           }
         },
         "item_xPrMzy": {
           "type": "item",
           "settings": {
-            "title": "Combien de gélules contient un flacon ?",
-            "content": "<p>Chaque flacon contient 60 gélules, soit 30 jours de cure à raison de 2 gélules par jour</p>"
+            "title": "Quelle est votre politique de livraison ?",
+            "content": "<p>La livraison s’effectue sous <strong>6 à 8 jours ouvrés</strong>, en raison du grand nombre de commandes liées à notre offre actuelle. Chaque commande est expédiée avec suivi afin que vous puissiez suivre votre colis à tout moment.</p>"
           }
         },
         "item_7AJMh4": {
@@ -754,8 +754,8 @@
         "item_RRz4wN": {
           "type": "item",
           "settings": {
-            "title": "Et si je ne suis pas satisfait(e)?",
-            "content": "<p>Nous avons <strong>une garantie satisfait ou remboursé de 30 jours</strong>. Si vous ne voyez pas de résultats, contactez-nous et nous vous remboursons !</p>"
+            "title": "Quelle est votre politique de retour ?",
+            "content": "<p>Vous disposez de<strong>90 jours pour tester les gummies de croissance Nutrikids</strong>. Si vous n’êtes pas satisfait, il vous suffit de nous contacter et de retourner le produit pour obtenir un remboursement complet.</p>"
           }
         }
       },
