@@ -552,8 +552,8 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Des ingrédients testés cliniquement",
-            "content": "",
+            "subheading": "Ingrédients testés cliniquement",
+            "content": "<p><br/></p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -586,21 +586,11 @@
         "item_tHqGqM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-07-23T160835.119_1.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "LipoNAD™ Liposomal",
-            "content": "<p>Forme liposomale brevetée qui améliore l’absorption du NAD⁺ par l’organisme. Permet d’atteindre une efficacité jusqu’à 9 fois supérieure à la forme classique.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_PxCTT6": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 0.5,
-            "subheading": "",
-            "title": "Trans-Résvératrol",
-            "content": "<p>Antioxydant puissant qui protège les cellules du vieillissement prématuré. Il améliore la fermeté de la peau et ravive l’éclat du teint.</p>",
+            "title": "Calcium",
+            "content": "<p>Indispensable pendant la croissance, le calcium contribue à la formation et au renforcement des os et des dents. Il participe aussi au bon fonctionnement musculaire et nerveux, ce qui en fait un nutriment essentiel pour accompagner les enfants dans leurs activités quotidiennes.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -608,10 +598,23 @@
         "item_CiDWaE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-07-23T161917.011_1.webp",
             "image_rotation_degrees": 0,
             "subheading": "",
-            "title": "β-NAD⁺ ≥ 250 %",
-            "content": "<p>Actif essentiel au fonctionnement cellulaire. Il soutient la production d’énergie, la régénération cellulaire et la clarté mentale.</p>",
+            "title": "L-Arginine",
+            "content": "<p>Cet acide aminé essentiel au développement participe à la croissance harmonieuse du corps. Il soutient la circulation sanguine, la production de protéines et le développement musculaire. La L-Arginine aide également à maintenir un niveau d’énergie optimal, pour accompagner les enfants dans leur croissance et leurs activités physiques.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_PxCTT6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-07-23T161340.028_1.webp",
+            "image_rotation_degrees": 0.5,
+            "subheading": "",
+            "title": "Zinc",
+            "content": "<p>Oligo-élément clé pour le développement, le zinc intervient dans la division cellulaire, la cicatrisation et le soutien des défenses immunitaires. Il aide également à maintenir une bonne santé de la peau, des cheveux et des ongles, apportant un soutien global à l’organisme en pleine croissance.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -619,8 +622,8 @@
       },
       "block_order": [
         "item_tHqGqM",
-        "item_PxCTT6",
-        "item_CiDWaE"
+        "item_CiDWaE",
+        "item_PxCTT6"
       ],
       "settings": {
         "full_width": false,
