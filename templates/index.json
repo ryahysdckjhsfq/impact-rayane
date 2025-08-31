@@ -643,7 +643,7 @@
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "Votre rituel jeunesse en 3 secondes !",
+            "subheading": "Pourquoi choisir Nutrikids ?",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -671,30 +671,6 @@
         "button_text_color": ""
       }
     },
-    "video_r8tVWC": {
-      "type": "video",
-      "blocks": {
-        "subheading_yCJzff": {
-          "type": "subheading",
-          "settings": {
-            "text": "Prenez 2 gélules chaque matin avec un verre d’eau. Des résultats visibles dès les premières semaines."
-          }
-        }
-      },
-      "block_order": [
-        "subheading_yCJzff"
-      ],
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 33
-      }
-    },
     "1741704546d0daecc4": {
       "type": "apps",
       "settings": {
@@ -714,6 +690,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Copie_de_Copie_de_NousEux_Top_Neuille_2.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_NousEux_Top_Neuille_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -837,7 +815,6 @@
     "impact_text_DUjyLn",
     "multiple_images_with_text_GCdCBy",
     "impact_text_VVKKeR",
-    "video_r8tVWC",
     "1741704546d0daecc4",
     "image_with_text_overlay_BXnr8j",
     "faq_8AQkP4",
