@@ -66,7 +66,7 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Copie_de_Sans_titre_5.png",
+        "logo": "shopify://shop_images/NutriKids_1.png",
         "logo_max_width": 155,
         "logo_mobile_max_width": 110,
         "menu": "main-menu",
@@ -80,7 +80,8 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#ffffff",
+        "transparent_header_text_color": "#fdfdfd",
+        "transparent_logo": "shopify://shop_images/NutriKids_1.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
