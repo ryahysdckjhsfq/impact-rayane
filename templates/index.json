@@ -31,6 +31,7 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-magic-maman-e1578654114791.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -38,6 +39,7 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/marie-claire-enfants-logo-mapiel.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -45,6 +47,7 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/parents-logo-vector.png",
             "logo_width": 300,
             "link": ""
           }
@@ -52,6 +55,7 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_Enfant_Mag.avif",
             "logo_width": 300,
             "link": ""
           }
@@ -79,6 +83,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_TYcMzb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HcEL3L": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir les gummies NutriKid?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HcEL3L"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_gwcfFr": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -86,6 +116,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/nutrikid_5.png",
+        "mobile_image": "shopify://shop_images/nutrikid_5_afc6f218-10d0-45fc-b443-e5b63b6edaf4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -101,7 +133,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Voyez le par vous-même",
+        "heading": "Nos clientes en parlent le mieux",
         "heading_custom": true,
         "heading_font": "poppins_n4",
         "heading_size": 38,
@@ -121,7 +153,7 @@
         "stars_count": 5,
         "stars_size": 44,
         "stars_size_mobile": 36,
-        "text": "<p>Basé sur +5000 avis </p>",
+        "text": "<p>Basé sur +35,000 clients satisfaits</p>",
         "text_custom": false,
         "text_font": "poppins_n4",
         "text_size": 20,
@@ -232,36 +264,65 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/photo.png",
             "column_size": "2",
-            "title": "Sarah M.",
+            "title": "Thomas R.",
             "heading_tag": "h4",
-            "content": "<p>Mon fils Lucas (8 ans) me suppliait de le laisser se préparer seul pour la piscine. Avec ses anciennes lunettes, impossible ...Il se battait 10 minutes avec les sangles. Maintenant il les met en 2 secondes et fonce dans l'eau. Je le regarde de loin avec le sourire. Merci de l'avoir rendu plus autonome ! </p>",
+            "content": "<p>Mon fils était le plus petit de sa classe, il commence enfin à rattraper les autres.</p>",
             "link_url": "",
-            "link_text": "",
+            "link_text": "Achat vérifié",
             "link_style": "link"
           }
         },
         "item_eWKkze": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_21_aout_2025_00_43_15.png",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
-            "content": "<p>J'avais testé 4 marques différentes en 2 ans. Toujours les même problèmes : buée au bout de 5 minutes, bouchons d'oreille à acheter séparément, sangles qui cassent ... la j'ai TOUT dans un seul produit et ça marche vraiment ! Mon fils de 6 ans nage maintenant sans interruption pendant 2h. Investissement rentabilisé dès la première baignade. </p>",
+            "content": "<p>Mon fils a pris confiance en quelques mois, on voit déjà la différence</p>",
             "link_url": "",
-            "link_text": "",
+            "link_text": "Achat vérifié",
             "link_style": "link"
           }
         },
         "item_Jp96dL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/176434905-1750536034.0425.jpg",
             "column_size": "3",
             "title": "Julie D",
             "heading_tag": "h4",
-            "content": "<p>J'avais testé 4 marques différentes en 2 ans. Toujours les même problèmes : buée au bout de 5 minutes, bouchons d'oreille à acheter séparément, sangles qui cassent ... la j'ai TOUT dans un seul produit et ça marche vraiment ! Mon fils de 6 ans nage maintenant sans interruption pendant 2h. Investissement rentabilisé dès la première baignade. </p>",
+            "content": "<p>Mon fils a déjà pris 2 cm en un mois, on est bluffés !</p>",
             "link_url": "",
-            "link_text": "",
+            "link_text": "Achat vérifié",
+            "link_style": "link"
+          }
+        },
+        "item_4mDGcx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Nutrikids_Croissance.png",
+            "column_size": "3",
+            "title": "Céline D.",
+            "heading_tag": "h4",
+            "content": "<p>Très satisfaite, mon fils grandit enfin régulièrement et ça se voit à ses vêtements.</p>",
+            "link_url": "",
+            "link_text": "Achat vérifié",
+            "link_style": "link"
+          }
+        },
+        "item_7Hhn9c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/176434906-1749211484.3115.jpg",
+            "column_size": "3",
+            "title": "Émilie S.",
+            "heading_tag": "h4",
+            "content": "<p>Après 2 mois, on a vu une vraie différence, presque 3 cm gagnés.</p>",
+            "link_url": "",
+            "link_text": "Achat vérifié",
             "link_style": "link"
           }
         }
@@ -269,7 +330,9 @@
       "block_order": [
         "item_JrtQdC",
         "item_eWKkze",
-        "item_Jp96dL"
+        "item_Jp96dL",
+        "item_4mDGcx",
+        "item_7Hhn9c"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -803,6 +866,7 @@
   "order": [
     "image_with_text_overlay_CHAr4d",
     "logo_list_LbwUty",
+    "rich_text_TYcMzb",
     "image_with_text_overlay_gwcfFr",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
