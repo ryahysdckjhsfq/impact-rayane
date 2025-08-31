@@ -480,81 +480,22 @@
         "input_text_color": ""
       }
     },
-    "multi_column_maP9ym": {
-      "type": "multi-column",
-      "blocks": {
-        "item_H74aCp": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XXBHyY": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MBLYcW": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_H74aCp",
-        "item_XXBHyY",
-        "item_MBLYcW"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Pourquoi prendre du NAD ?",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "tabs_rUHYbb": {
       "type": "tabs",
       "blocks": {
         "tab_PkdNQa": {
           "type": "tab",
           "settings": {
-            "title": "Caractéristiques",
-            "content": "<p><strong>Formule avancée anti-taches</strong></p><p>Atténue visiblement les taches pigmentaires, marques d’acné et irrégularités du teint</p><p>Contient des actifs puissants comme le <strong>Diglucosyl Gallic Acid</strong> et la <strong>Kojic Dipalmitate</strong></p><p>Convient à <strong>tous types de peau</strong>, même les plus sensibles</p>",
+            "title": "Authenticité",
+            "content": "<p>NutriKids™ est uniquement disponible sur notre site officiel. Toute ventes sur des sites tierces comme Amazon, concerne des contrefaçons de mauvaise qualité. pour garantir l'authenticité de la qualité, achetez exclusivement sur notre site.</p>",
             "page": ""
           }
         },
         "tab_8Vb3ad": {
           "type": "tab",
           "settings": {
-            "title": "Garantie 30 jours",
-            "content": "<p>Essayez Luméa Pigment Correcteur <strong>sans risque pendant 30 jours</strong></p><p>Si vous n’êtes pas satisfait(e), nous vous remboursons </p>",
+            "title": "Détails du produit",
+            "content": "<p>Chaque boîte contient 30 gummies végan, sans OGM ni hormones. Conçus pour soutenir la croissance naturelle et la santé globale des enfants.</p>",
             "page": ""
           }
         },
@@ -562,7 +503,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison gratuite à domicile",
-            "content": "<p>Profitez de la <strong>livraison offerte</strong>, directement chez vous</p><p>Expédition sous <strong>24h ouvrées</strong>, suivi en temps réel</p>",
+            "content": "<p>Nos gummies renferment 48 nutriments actifs soigneusement sélectionnés. Parmi eux :</p><p><strong>Calcium</strong> pour renforcer les os et les dents.</p><p><strong>Zinc</strong> pour stimuler la production naturelle d’hormones de croissance.</p><p><strong>Vitamine D3</strong> pour améliorer l’absorption du calcium et soutenir le système immunitaire.</p><p><strong>L-Arginine</strong> pour favoriser un meilleur développement musculaire et une croissance harmonieuse.</p><p>Tous les ingrédients sont d’origine naturelle et adaptés à une consommation quotidienne en toute sécurité.</p>",
             "page": ""
           }
         },
@@ -570,7 +511,15 @@
           "type": "tab",
           "settings": {
             "title": "Service client 7J/7",
-            "content": "<p>Une question ? Une hésitation ? <strong>Notre équipe est disponible tous les jours</strong> pour vous conseiller</p><p>Contactez-nous par <strong>email </strong></p>",
+            "content": "<p>Pour de meilleurs résultats, nous recommandons de prendre<strong>deux gummies par jour</strong>, de préférence après un repas. Cette posologie permet une meilleure absorption des nutriments. Nutrikid convient aux enfants dès 5 ans et peut être intégré facilement dans une routine quotidienne. Pour optimiser la croissance, il est conseillé de l’associer à une alimentation équilibrée, une activité physique régulière et un bon sommeil.</p>",
+            "page": ""
+          }
+        },
+        "tab_YxnqGk": {
+          "type": "tab",
+          "settings": {
+            "title": "Retours & remboursements",
+            "content": "<p>Vous disposez de 90 jours pour essayer les gummies de croissance Nutrikids. Si vous n’êtes pas satisfait, il suffit de nous contacter et de retourner le produit pour obtenir un remboursement.</p>",
             "page": ""
           }
         }
@@ -579,7 +528,8 @@
         "tab_PkdNQa",
         "tab_8Vb3ad",
         "tab_k8RwnC",
-        "tab_LWrAEk"
+        "tab_LWrAEk",
+        "tab_YxnqGk"
       ],
       "settings": {
         "full_width": true,
@@ -880,7 +830,6 @@
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
-    "multi_column_maP9ym",
     "tabs_rUHYbb",
     "impact_text_DUjyLn",
     "multiple_images_with_text_GCdCBy",
