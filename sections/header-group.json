@@ -17,7 +17,7 @@
         "message_jatTbz": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou remboursé 30 jours",
+            "text": "Satisfait ou remboursé 90 jours",
             "url": ""
           }
         },
@@ -38,7 +38,7 @@
         "message_YQ96Da": {
           "type": "message",
           "settings": {
-            "text": "Offre limitée fête des mères : -50%",
+            "text": "Offre limitée rentrée : -50%",
             "url": ""
           }
         }
@@ -58,7 +58,7 @@
         "scrolling_speed": 10,
         "background": "#00b2ff",
         "background_gradient": "",
-        "text_color": "#1a1a1a"
+        "text_color": "#ffffff"
       }
     },
     "header": {
