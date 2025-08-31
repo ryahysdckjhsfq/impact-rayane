@@ -791,6 +791,35 @@
         "accordion_text_color": ""
       }
     },
+    "17566787455061ee2f": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_verified_badge_JdiGTW": {
+          "type": "shopify://apps/judge-me-reviews/blocks/verified_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "judge_me_reviews_review_widget_homepage_DGBKGq": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "gummies",
+            "review_data": "real_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_verified_badge_JdiGTW",
+        "judge_me_reviews_review_widget_homepage_DGBKGq"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1741706100d05eb2b1": {
       "type": "apps",
       "settings": {
@@ -818,6 +847,7 @@
     "1741704546d0daecc4",
     "image_with_text_overlay_BXnr8j",
     "faq_8AQkP4",
+    "17566787455061ee2f",
     "1741706100d05eb2b1"
   ]
 }
