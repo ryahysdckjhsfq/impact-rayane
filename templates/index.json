@@ -90,7 +90,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir les gummies NutriKid?",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -102,7 +102,7 @@
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "large",
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
