@@ -403,6 +403,12 @@
             "max_width": 500
           }
         },
+        "liquid_N4htqN": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "buy_buttons_iKQNEB": {
           "type": "buy_buttons",
           "settings": {
@@ -443,6 +449,7 @@
         "image_NMdy6m",
         "kaching_bundles_app_block_bMxfig",
         "image_nh8JtV",
+        "liquid_N4htqN",
         "buy_buttons_iKQNEB",
         "liquid_nBqajL",
         "image_q6wqEm",
