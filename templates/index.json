@@ -494,7 +494,7 @@
         "tab_k8RwnC": {
           "type": "tab",
           "settings": {
-            "title": "Livraison gratuite à domicile",
+            "title": "Composition naturelle",
             "content": "<p>Nos gummies renferment 48 nutriments actifs soigneusement sélectionnés. Parmi eux :</p><p><strong>Calcium</strong> pour renforcer les os et les dents.</p><p><strong>Zinc</strong> pour stimuler la production naturelle d’hormones de croissance.</p><p><strong>Vitamine D3</strong> pour améliorer l’absorption du calcium et soutenir le système immunitaire.</p><p><strong>L-Arginine</strong> pour favoriser un meilleur développement musculaire et une croissance harmonieuse.</p><p>Tous les ingrédients sont d’origine naturelle et adaptés à une consommation quotidienne en toute sécurité.</p>",
             "page": ""
           }
@@ -535,6 +535,58 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "impact_text_VVKKeR": {
+      "type": "impact-text",
+      "blocks": {
+        "item_WELy9Y": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Pourquoi choisir Nutrikids ?",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_WELy9Y"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_BXnr8j": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Copie_de_Copie_de_NousEux_Top_Neuille_2.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_NousEux_Top_Neuille_2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "impact_text_DUjyLn": {
@@ -626,69 +678,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "impact_text_VVKKeR": {
-      "type": "impact-text",
-      "blocks": {
-        "item_WELy9Y": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Pourquoi choisir Nutrikids ?",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_WELy9Y"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "1741704546d0daecc4": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_BXnr8j": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Copie_de_NousEux_Top_Neuille_2.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_NousEux_Top_Neuille_2.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "faq_8AQkP4": {
@@ -833,11 +822,10 @@
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
     "tabs_rUHYbb",
+    "impact_text_VVKKeR",
+    "image_with_text_overlay_BXnr8j",
     "impact_text_DUjyLn",
     "multiple_images_with_text_GCdCBy",
-    "impact_text_VVKKeR",
-    "1741704546d0daecc4",
-    "image_with_text_overlay_BXnr8j",
     "faq_8AQkP4",
     "17566787455061ee2f",
     "1741706100d05eb2b1"
