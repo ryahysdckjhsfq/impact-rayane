@@ -382,23 +382,16 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\" id=\"stock-section\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\" id=\"stock-text\">En stock : 6 restants</div>\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    let stockText = document.getElementById(\"stock-text\");\n    let stockSection = document.getElementById(\"stock-section\");\n    let hasTriggered = false;\n\n    let observer = new IntersectionObserver(function(entries) {\n      if (entries[0].isIntersecting && !hasTriggered) {\n        hasTriggered = true;\n        setTimeout(function () {\n          stockText.innerHTML = \"En stock : 5 restants\";\n        }, 3000); // Change après 3 secondes une fois visible\n      }\n    }, { threshold: 0.5 });\n\n    observer.observe(stockSection);\n  });\n</script>"
           }
         },
-        "image_NMdy6m": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 150
-          }
-        },
         "kaching_bundles_app_block_bMxfig": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{section.settings.product}}"
           }
         },
-        "image_nh8JtV": {
+        "image_NMdy6m": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copie_de_Copie_de_derniere_chance_4.png",
+            "image": "shopify://shop_images/Copie_de_Copie_de_derniere_chance_5.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -452,9 +445,8 @@
         "badges_6RcwRt",
         "image_jVW4cF",
         "liquid_dkq3wi",
-        "image_NMdy6m",
         "kaching_bundles_app_block_bMxfig",
-        "image_nh8JtV",
+        "image_NMdy6m",
         "countdown_timer_essential_app_block_UtnVxb",
         "buy_buttons_iKQNEB",
         "liquid_N4htqN",
