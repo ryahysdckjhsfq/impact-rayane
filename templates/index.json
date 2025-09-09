@@ -109,6 +109,49 @@
         "text_color": ""
       }
     },
+    "slideshow_x7RRpK": {
+      "type": "slideshow",
+      "blocks": {
+        "image_KRqzDM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_titre_1.png",
+            "mobile_image": "shopify://shop_images/Ajouter_un_titre_1.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_KRqzDM"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "image_with_text_overlay_gwcfFr": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -116,8 +159,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre.png",
-        "mobile_image": "shopify://shop_images/Ajouter_un_titre.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -264,11 +305,11 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/photo.png",
+            "image": "shopify://shop_images/brf.png",
             "column_size": "2",
-            "title": "Thomas R.",
+            "title": "Sophie M.",
             "heading_tag": "h4",
-            "content": "<p>Mon fils était le plus petit de sa classe, il commence enfin à rattraper les autres.</p>",
+            "content": "<p>Ma fille avait souvent du mal à suivre en taille, et maintenant elle a bien grandi. Elle est beaucoup plus confiante.</p>",
             "link_url": "",
             "link_text": "Achat vérifié",
             "link_style": "link"
@@ -817,6 +858,7 @@
     "image_with_text_overlay_CHAr4d",
     "logo_list_LbwUty",
     "rich_text_TYcMzb",
+    "slideshow_x7RRpK",
     "image_with_text_overlay_gwcfFr",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
