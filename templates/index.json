@@ -148,7 +148,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -304,7 +304,7 @@
         "item_4mDGcx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Nutrikids_Croissance.png",
+            "image": "shopify://shop_images/Nutrikids_Croissance_1.png",
             "column_size": "3",
             "title": "Céline D.",
             "heading_tag": "h4",
