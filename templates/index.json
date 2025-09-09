@@ -288,19 +288,6 @@
     "multi_column_njF3Nz": {
       "type": "multi-column",
       "blocks": {
-        "item_JrtQdC": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/brf.png",
-            "column_size": "2",
-            "title": "Sophie M.",
-            "heading_tag": "h4",
-            "content": "<p>Ma fille avait souvent du mal à suivre en taille, et maintenant elle a bien grandi. Elle est beaucoup plus confiante.</p>",
-            "link_url": "",
-            "link_text": "Achat vérifié",
-            "link_style": "link"
-          }
-        },
         "item_eWKkze": {
           "type": "item",
           "settings": {
@@ -309,6 +296,19 @@
             "title": "Léa T.",
             "heading_tag": "h4",
             "content": "<p>Mon fils a pris confiance en quelques mois, on voit déjà la différence</p>",
+            "link_url": "",
+            "link_text": "Achat vérifié",
+            "link_style": "link"
+          }
+        },
+        "item_4mDGcx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Nutrikids_Croissance.png",
+            "column_size": "3",
+            "title": "Céline D.",
+            "heading_tag": "h4",
+            "content": "<p>Très satisfaite, mon fils grandit enfin régulièrement et ça se voit à ses vêtements.</p>",
             "link_url": "",
             "link_text": "Achat vérifié",
             "link_style": "link"
@@ -327,14 +327,14 @@
             "link_style": "link"
           }
         },
-        "item_4mDGcx": {
+        "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Nutrikids_Croissance.png",
-            "column_size": "3",
-            "title": "Céline D.",
+            "image": "shopify://shop_images/brf.png",
+            "column_size": "2",
+            "title": "Sophie M.",
             "heading_tag": "h4",
-            "content": "<p>Très satisfaite, mon fils grandit enfin régulièrement et ça se voit à ses vêtements.</p>",
+            "content": "<p>Ma fille avait souvent du mal à suivre en taille, et maintenant elle a bien grandi. Elle est beaucoup plus confiante.</p>",
             "link_url": "",
             "link_text": "Achat vérifié",
             "link_style": "link"
@@ -355,10 +355,10 @@
         }
       },
       "block_order": [
-        "item_JrtQdC",
         "item_eWKkze",
-        "item_Jp96dL",
         "item_4mDGcx",
+        "item_Jp96dL",
+        "item_JrtQdC",
         "item_7Hhn9c"
       ],
       "custom_css": [
