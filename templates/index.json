@@ -152,20 +152,6 @@
         "background_gradient": ""
       }
     },
-    "image_with_text_overlay_gwcfFr": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "trust_pilot_reviews_jNiAPL": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
@@ -859,7 +845,6 @@
     "logo_list_LbwUty",
     "rich_text_TYcMzb",
     "slideshow_x7RRpK",
-    "image_with_text_overlay_gwcfFr",
     "trust_pilot_reviews_jNiAPL",
     "multi_column_njF3Nz",
     "featured_product_KTD6Bx",
