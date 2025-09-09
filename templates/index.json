@@ -13,11 +13,11 @@
       "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Copie_de_Banniere_Top_Neuille_2.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_Banniere_Top_Neuille_2.png",
+        "image": "shopify://shop_images/Copie_de_Copie_de_Banniere_Top_Neuille_3.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_Banniere_Top_Neuille_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
@@ -397,7 +397,7 @@
           }
         },
         "countdown_timer_essential_app_block_UtnVxb": {
-          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "settings": {
             "id": "cmf0728mp0023ussn5nkas524"
           }
