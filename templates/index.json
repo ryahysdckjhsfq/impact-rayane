@@ -291,6 +291,7 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_47.png",
             "column_size": "3",
             "title": "Sabine R.",
             "heading_tag": "h4",
