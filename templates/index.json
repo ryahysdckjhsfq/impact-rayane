@@ -320,7 +320,7 @@
             "heading_tag": "h4",
             "content": "<p>Kein Ziepen, kein Rasieren mehr – wirklich erleichternd.</p>",
             "link_url": "",
-            "link_text": "Achat vérifié",
+            "link_text": "Verifizierter Kauf",
             "link_style": "link"
           }
         },
@@ -332,7 +332,7 @@
             "heading_tag": "h4",
             "content": "<p>Ich habe wieder glatte Haut und mehr Selbstvertrauen.</p>",
             "link_url": "",
-            "link_text": "Achat vérifié",
+            "link_text": "Verifizierter Kauf",
             "link_style": "link"
           }
         },
@@ -340,11 +340,11 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Émilie S.",
+            "title": "Anja K.",
             "heading_tag": "h4",
-            "content": "<p>Enfin un produit qu’il aime prendre sans se plaindre.</p>",
+            "content": "<p>Sehr einfach in der Anwendung, morgens und abends nur 2 Minuten.</p>",
             "link_url": "",
-            "link_text": "Achat vérifié",
+            "link_text": "Verifizierter Kauf",
             "link_style": "link"
           }
         }
