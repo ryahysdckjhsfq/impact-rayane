@@ -330,6 +330,7 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1711355124__image__original.jpg",
             "column_size": "2",
             "title": "Heike F.",
             "heading_tag": "h4",
