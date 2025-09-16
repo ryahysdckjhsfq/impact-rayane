@@ -304,6 +304,7 @@
         "item_4mDGcx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_48.png",
             "column_size": "3",
             "title": "Klara M.",
             "heading_tag": "h4",
