@@ -13,11 +13,11 @@
       "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Copie_de_Banniere_Top_Neuille_3.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_Banniere_Top_Neuille_3.png",
+        "image": "shopify://shop_images/Copie_de_Copie_de_Banniere_Top_Neuille_4.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_Banniere_Top_Neuille_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,6 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-magic-maman-e1578654114791.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -39,7 +38,6 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/marie-claire-enfants-logo-mapiel.webp",
             "logo_width": 300,
             "link": ""
           }
@@ -47,7 +45,6 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/parents-logo-vector.png",
             "logo_width": 300,
             "link": ""
           }
@@ -55,7 +52,6 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_Enfant_Mag.avif",
             "logo_width": 300,
             "link": ""
           }
@@ -115,8 +111,6 @@
         "image_KRqzDM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_1.png",
-            "mobile_image": "shopify://shop_images/Ajouter_un_titre_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -291,7 +285,6 @@
         "item_eWKkze": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_21_aout_2025_00_43_15.png",
             "column_size": "3",
             "title": "Léa T.",
             "heading_tag": "h4",
@@ -304,7 +297,6 @@
         "item_4mDGcx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Nutrikids_Croissance_1.png",
             "column_size": "3",
             "title": "Céline D.",
             "heading_tag": "h4",
@@ -317,7 +309,6 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/176434905-1750536034.0425.jpg",
             "column_size": "3",
             "title": "Julie D",
             "heading_tag": "h4",
@@ -330,7 +321,6 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/brf.png",
             "column_size": "2",
             "title": "Sophie M.",
             "heading_tag": "h4",
@@ -343,7 +333,6 @@
         "item_7Hhn9c": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/176434906-1749211484.3115.jpg",
             "column_size": "3",
             "title": "Émilie S.",
             "heading_tag": "h4",
@@ -409,24 +398,11 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\" id=\"stock-section\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\" id=\"stock-text\">En stock : 6 restants</div>\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    let stockText = document.getElementById(\"stock-text\");\n    let stockSection = document.getElementById(\"stock-section\");\n    let hasTriggered = false;\n\n    let observer = new IntersectionObserver(function(entries) {\n      if (entries[0].isIntersecting && !hasTriggered) {\n        hasTriggered = true;\n        setTimeout(function () {\n          stockText.innerHTML = \"En stock : 5 restants\";\n        }, 3000); // Change après 3 secondes une fois visible\n      }\n    }, { threshold: 0.5 });\n\n    observer.observe(stockSection);\n  });\n</script>"
           }
         },
-        "kaching_bundles_app_block_bMxfig": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "image_NMdy6m": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copie_de_Copie_de_derniere_chance_6.png",
             "alignment": "center",
             "max_width": 500
-          }
-        },
-        "countdown_timer_essential_app_block_UtnVxb": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmf0728mp0023ussn5nkas524"
           }
         },
         "buy_buttons_iKQNEB": {
@@ -472,9 +448,7 @@
         "badges_6RcwRt",
         "image_jVW4cF",
         "liquid_dkq3wi",
-        "kaching_bundles_app_block_bMxfig",
         "image_NMdy6m",
-        "countdown_timer_essential_app_block_UtnVxb",
         "buy_buttons_iKQNEB",
         "liquid_N4htqN",
         "liquid_nBqajL",
@@ -607,8 +581,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Copie_de_NousEux_Top_Neuille_3.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_NousEux_Top_Neuille_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -657,7 +629,6 @@
         "item_tHqGqM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-07-23T160835.119_1.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Calcium",
@@ -669,7 +640,6 @@
         "item_CiDWaE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-07-23T161917.011_1.webp",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "L-Arginine",
@@ -681,7 +651,6 @@
         "item_PxCTT6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-07-23T161340.028_1.webp",
             "image_rotation_degrees": 0.5,
             "subheading": "",
             "title": "Zinc",
@@ -801,24 +770,6 @@
     },
     "17566787455061ee2f": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_verified_badge_JdiGTW": {
-          "type": "shopify://apps/judge-me-reviews/blocks/verified_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        },
-        "judge_me_reviews_review_widget_homepage_DGBKGq": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "gummies",
-            "review_data": "real_data",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_verified_badge_JdiGTW",
-        "judge_me_reviews_review_widget_homepage_DGBKGq"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
