@@ -31,6 +31,7 @@
         "logo_Aefqdf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/brigitte-logo-black-1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -38,6 +39,7 @@
         "logo_7BnYEQ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Apothekenumschau_Logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -45,6 +47,7 @@
         "logo_XVUJaB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Freundin__Zeitschrift__logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -52,6 +55,7 @@
         "logo_xQTKkB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/fursie.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -66,7 +70,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur :",
+        "title": "Bekannt aus:",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
