@@ -317,6 +317,7 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1718978934__17189788824043171381284286966419__original.jpg",
             "column_size": "3",
             "title": "Birgit L.",
             "heading_tag": "h4",
