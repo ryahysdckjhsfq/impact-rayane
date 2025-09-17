@@ -317,7 +317,7 @@
         "item_Jp96dL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1718978934__17189788824043171381284286966419__original.jpg",
+            "image": "shopify://shop_images/4_59997049-d499-4385-b780-2642c94be488.png",
             "column_size": "3",
             "title": "Birgit L.",
             "heading_tag": "h4",
@@ -330,7 +330,7 @@
         "item_JrtQdC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1711355124__image__original.jpg",
+            "image": "shopify://shop_images/3.png",
             "column_size": "2",
             "title": "Heike F.",
             "heading_tag": "h4",
@@ -343,6 +343,7 @@
         "item_7Hhn9c": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5.png",
             "column_size": "3",
             "title": "Anja K.",
             "heading_tag": "h4",
