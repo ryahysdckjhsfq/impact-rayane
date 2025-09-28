@@ -9,24 +9,6 @@
  */
 {
   "sections": {
-    "how_to_use_UDbVHt": {
-      "type": "how-to-use",
-      "blocks": {
-        "step_hxW3ww": {
-          "type": "step",
-          "settings": {
-            "title": "Step Title Here",
-            "description": "Description of this step goes here.",
-            "alignment": "left"
-          }
-        }
-      },
-      "block_order": [
-        "step_hxW3ww"
-      ],
-      "name": "How to Use",
-      "settings": {}
-    },
     "image_with_text_overlay_CHAr4d": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -972,7 +954,6 @@
     }
   },
   "order": [
-    "how_to_use_UDbVHt",
     "image_with_text_overlay_CHAr4d",
     "logo_list_LbwUty",
     "rich_text_TYcMzb",
