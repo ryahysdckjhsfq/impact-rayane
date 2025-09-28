@@ -9,169 +9,23 @@
  */
 {
   "sections": {
-    "ugc_video_products_JPbgeb": {
-      "type": "ugc-video-products",
+    "how_to_use_UDbVHt": {
+      "type": "how-to-use",
       "blocks": {
-        "video_x4kg6t": {
-          "type": "video",
+        "step_hxW3ww": {
+          "type": "step",
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
-          }
-        },
-        "video_Mhm4ik": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
-          }
-        },
-        "video_eMfYgW": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
-          }
-        },
-        "video_NqWY8N": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
-          }
-        },
-        "video_9gd9yQ": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
+            "title": "Step Title Here",
+            "description": "Description of this step goes here.",
+            "alignment": "left"
           }
         }
       },
       "block_order": [
-        "video_x4kg6t",
-        "video_Mhm4ik",
-        "video_eMfYgW",
-        "video_NqWY8N",
-        "video_9gd9yQ"
+        "step_hxW3ww"
       ],
-      "name": "SS - Product Videos",
-      "settings": {
-        "videos_position": "above_description",
-        "use_metafield": false,
-        "heading": "<h2>WHAT OUR FELLOWS SAY</h2>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 18,
-        "heading_size_mobile": 18,
-        "heading_height": 130,
-        "heading_align": "center",
-        "heading_align_mobile": "center",
-        "slider_view": 3,
-        "slider_view_mobile": 3,
-        "slider_gap": 16,
-        "slider_gap_mobile": 16,
-        "slider_mt": 20,
-        "card_radius": 10,
-        "card_border_thickness": 0,
-        "card_shadow": true,
-        "video_ratio": "portrait",
-        "video_ratio_mobile": "portrait",
-        "video_overlay": 0.3,
-        "icon_size": 34,
-        "icon_size_mobile": 34,
-        "icon_border_thickness": 1,
-        "icon_position_mobile": "bottom_left",
-        "icon_position": "bottom_left",
-        "hide_icon": false,
-        "arrow_size": 35,
-        "arrow_size_mobile": 35,
-        "arrow_radius": 5,
-        "arrow_border_thickness": 0,
-        "arrow_hover_shadow": true,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": true,
-        "show_content": true,
-        "modal_width": 70,
-        "modal_width_mobile": 95,
-        "modal_padding_vertical": 0,
-        "modal_padding_vertical_mobile": 0,
-        "modal_padding_horizontal": 0,
-        "modal_padding_horizontal_mobile": 0,
-        "modal_radius": 16,
-        "modal_border_thickness": 0,
-        "modal_overlay": 50,
-        "close_size": 42,
-        "close_size_mobile": 42,
-        "close_radius": 8,
-        "close_border_thickness": 0,
-        "buttons_size": 48,
-        "buttons_size_mobile": 48,
-        "buttons_radius": 8,
-        "buttons_border_thickness": 0,
-        "modal_video_radius": 0,
-        "modal_video_border_thickness": 0,
-        "modal_video_ratio": "portrait",
-        "modal_video_ratio_mobile": "portrait",
-        "modal_heading_custom": false,
-        "modal_heading_font": "josefin_sans_n4",
-        "modal_heading_size": 28,
-        "modal_heading_size_mobile": 28,
-        "modal_heading_height": 130,
-        "modal_heading_align": "center",
-        "modal_heading_align_mobile": "center",
-        "modal_text_custom": false,
-        "modal_text_font": "josefin_sans_n4",
-        "modal_text_size": 16,
-        "modal_text_size_mobile": 16,
-        "modal_text_height": 130,
-        "modal_text_align": "center",
-        "modal_text_align_mobile": "center",
-        "modal_text_mt": 16,
-        "card_bg_color": "#FFFFFF",
-        "card_border_color": "#000000",
-        "card_shadow_color": "#000000",
-        "video_overlay_color": "#000000",
-        "icon_bg_color": "#000000",
-        "icon_border_color": "#FFFFFF",
-        "icon_color": "#FFFFFF",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "arrow_icon_color": "#1c1c1c",
-        "arrow_icon_hover_color": "#1c1c1c",
-        "modal_bg_color": "#FFFFFF",
-        "modal_border_color": "#000000",
-        "close_bg_color": "#FFFFFF",
-        "close_border_color": "#000000",
-        "close_icon_color": "#FFFFFF",
-        "buttons_bg_color": "#FFFFFF",
-        "buttons_border_color": "#000000",
-        "buttons_icon_color": "#FFFFFF",
-        "modal_video_border_color": "#000000",
-        "modal_content_bg_color": "#FFFFFF",
-        "modal_content_border_color": "#000000",
-        "modal_heading_color": "#000000",
-        "modal_text_color": "#000000",
-        "heading_color": "#000000",
-        "background_color": "#FFFFFF",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0,
-        "lazy": true
-      }
+      "name": "How to Use",
+      "settings": {}
     },
     "image_with_text_overlay_CHAr4d": {
       "type": "image-with-text-overlay",
@@ -635,6 +489,170 @@
         "input_text_color": ""
       }
     },
+    "ugc_video_products_JPbgeb": {
+      "type": "ugc-video-products",
+      "blocks": {
+        "video_x4kg6t": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_text": "<p>Modal Text</p>"
+          }
+        },
+        "video_Mhm4ik": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_text": "<p>Modal Text</p>"
+          }
+        },
+        "video_eMfYgW": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_text": "<p>Modal Text</p>"
+          }
+        },
+        "video_NqWY8N": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_text": "<p>Modal Text</p>"
+          }
+        },
+        "video_9gd9yQ": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_text": "<p>Modal Text</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_x4kg6t",
+        "video_Mhm4ik",
+        "video_eMfYgW",
+        "video_NqWY8N",
+        "video_9gd9yQ"
+      ],
+      "name": "SS - Product Videos",
+      "settings": {
+        "videos_position": "above_description",
+        "use_metafield": false,
+        "heading": "<h2>WHAT OUR FELLOWS SAY</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "slider_view": 3,
+        "slider_view_mobile": 3,
+        "slider_gap": 16,
+        "slider_gap_mobile": 16,
+        "slider_mt": 20,
+        "card_radius": 10,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "video_ratio": "portrait",
+        "video_ratio_mobile": "portrait",
+        "video_overlay": 0.3,
+        "icon_size": 34,
+        "icon_size_mobile": 34,
+        "icon_border_thickness": 1,
+        "icon_position_mobile": "bottom_left",
+        "icon_position": "bottom_left",
+        "hide_icon": false,
+        "arrow_size": 35,
+        "arrow_size_mobile": 35,
+        "arrow_radius": 5,
+        "arrow_border_thickness": 0,
+        "arrow_hover_shadow": true,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "show_content": true,
+        "modal_width": 70,
+        "modal_width_mobile": 95,
+        "modal_padding_vertical": 0,
+        "modal_padding_vertical_mobile": 0,
+        "modal_padding_horizontal": 0,
+        "modal_padding_horizontal_mobile": 0,
+        "modal_radius": 16,
+        "modal_border_thickness": 0,
+        "modal_overlay": 50,
+        "close_size": 42,
+        "close_size_mobile": 42,
+        "close_radius": 8,
+        "close_border_thickness": 0,
+        "buttons_size": 48,
+        "buttons_size_mobile": 48,
+        "buttons_radius": 8,
+        "buttons_border_thickness": 0,
+        "modal_video_radius": 0,
+        "modal_video_border_thickness": 0,
+        "modal_video_ratio": "portrait",
+        "modal_video_ratio_mobile": "portrait",
+        "modal_heading_custom": false,
+        "modal_heading_font": "josefin_sans_n4",
+        "modal_heading_size": 28,
+        "modal_heading_size_mobile": 28,
+        "modal_heading_height": 130,
+        "modal_heading_align": "center",
+        "modal_heading_align_mobile": "center",
+        "modal_text_custom": false,
+        "modal_text_font": "josefin_sans_n4",
+        "modal_text_size": 16,
+        "modal_text_size_mobile": 16,
+        "modal_text_height": 130,
+        "modal_text_align": "center",
+        "modal_text_align_mobile": "center",
+        "modal_text_mt": 16,
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#000000",
+        "video_overlay_color": "#000000",
+        "icon_bg_color": "#000000",
+        "icon_border_color": "#ffffff",
+        "icon_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#000000",
+        "arrow_icon_color": "#1c1c1c",
+        "arrow_icon_hover_color": "#1c1c1c",
+        "modal_bg_color": "#ffffff",
+        "modal_border_color": "#000000",
+        "close_bg_color": "#ffffff",
+        "close_border_color": "#000000",
+        "close_icon_color": "#ffffff",
+        "buttons_bg_color": "#ffffff",
+        "buttons_border_color": "#000000",
+        "buttons_icon_color": "#ffffff",
+        "modal_video_border_color": "#000000",
+        "modal_content_bg_color": "#ffffff",
+        "modal_content_border_color": "#000000",
+        "modal_heading_color": "#000000",
+        "modal_text_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "tabs_rUHYbb": {
       "type": "tabs",
       "blocks": {
@@ -954,6 +972,7 @@
     }
   },
   "order": [
+    "how_to_use_UDbVHt",
     "image_with_text_overlay_CHAr4d",
     "logo_list_LbwUty",
     "rich_text_TYcMzb",
