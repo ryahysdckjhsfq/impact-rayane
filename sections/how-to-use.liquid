@@ -1,35 +1,40 @@
-{% stylesheet %}
-/* Tu peux laisser vide si besoin */
-{% endstylesheet %}
-
-{% javascript %}
-/* Idem, optionnel */
-{% endjavascript %}
-
 <section class="how-to-use">
   <div class="container">
     <div class="steps">
       {% for block in section.blocks %}
-      <div class="step {% if block.settings.alignment == 'right' %}step-right{% endif %}">
-        <div class="step-image">
-          {% if block.settings.video %}
-              <video-media autoplay disablepictureinpicture controlslist="nodownload noplaybackrate nofullscreen" style="--aspect-ratio: {{ section.settings.video.aspect_ratio }}">
-                {{- block.settings.video | video_tag: playsinline: true, preload: 'metadata', muted: true, loop: true, controls: false -}}
+        <div class="step {% if block.settings.alignment == 'right' %}step-right{% endif %}">
+          <div class="step-image">
+            {% if block.settings.video != blank %}
+              <video-media style="--aspect-ratio: {{ block.settings.video.aspect_ratio | default: '16/9' }}">
+                {{- block.settings.video
+                  | video_tag:
+                    playsinline: true,
+                    preload: 'metadata',
+                    muted: true,
+                    loop: true,
+                    controls: false,
+                    autoplay: true
+                -}}
               </video-media>
-          {% elsif block.settings.image %}
-          <img src="{{ block.settings.image | image_url }}" alt="Step {{ forloop.index }}" />
-          {% else %}
-          <p>No media available for this step.</p>
-          {% endif %}
-        </div>
-        <div class="step-text">
-          <div class="step-number">{{ forloop.index }}</div>
-          <div class="step-content">
-            <h3>{{ block.settings.title }}</h3>
-            <p>{{ block.settings.description }}</p>
+            {% elsif block.settings.image != blank %}
+              <img
+                src="{{ block.settings.image | image_url }}"
+                alt="{{ block.settings.title | default: 'Step ' | append: forloop.index }}"
+                loading="lazy"
+              >
+            {% else %}
+              <p>No media available for this step.</p>
+            {% endif %}
+          </div>
+
+          <div class="step-text">
+            <div class="step-number">{{ forloop.index }}</div>
+            <div class="step-content">
+              <h3>{{ block.settings.title }}</h3>
+              <p>{{ block.settings.description }}</p>
+            </div>
           </div>
         </div>
-      </div>
       {% endfor %}
     </div>
   </div>
@@ -53,22 +58,22 @@
       display: flex;
       align-items: center;
       gap: 20px;
-      background: white;
+      background: #fff;
       border-radius: 15px;
       padding: 20px;
     }
-    .step.step-right {
-      flex-direction: row-reverse;
-    }
-    .step-image {
-      flex: 1.5;
-    }
-    .step-image video-media video, .step-image img {
+    .step.step-right { flex-direction: row-reverse; }
+
+    .step-image { flex: 1.5; }
+    .step-image video-media video,
+    .step-image img {
       max-width: 100%;
       max-height: 420px;
       object-fit: cover;
       border-radius: 10px;
+      display: block;
     }
+
     .step-text {
       padding-right: 5px;
       flex: 1.5;
@@ -80,7 +85,7 @@
       font-size: 20px;
       font-weight: bold;
       background: #2E4147;
-      color: white;
+      color: #fff;
       width: 30px;
       height: 30px;
       display: flex;
@@ -91,11 +96,18 @@
     .step-content h3 {
       margin: 0;
       font-size: 18px;
-      font-weight: bold;
+      font-weight: 700;
     }
     .step-content p {
       margin: 0;
       font-size: 14px;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .step { flex-direction: column; }
+      .step.step-right { flex-direction: column; }
+      .step-text { padding-right: 0; }
     }
   </style>
 </section>
@@ -103,57 +115,31 @@
 {% schema %}
 {
   "name": "How to Use",
+  "settings": [],
   "blocks": [
     {
       "type": "step",
       "name": "Step",
       "settings": [
-        {
-          "type": "image_picker",
-          "id": "image",
-          "label": "Step Image"
-        },
-        {
-          "type": "video",
-          "id": "video",
-          "label": "Step Video"
-        },
-        {
-          "type": "text",
-          "id": "title",
-          "label": "Step Title",
-          "default": "Step Title Here"
-        },
-        {
-          "type": "textarea",
-          "id": "description",
-          "label": "Step Description",
-          "default": "Description of this step goes here."
-        },
+        { "type": "image_picker", "id": "image", "label": "Step Image" },
+        { "type": "video", "id": "video", "label": "Step Video" },
+        { "type": "text", "id": "title", "label": "Step Title", "default": "Step Title Here" },
+        { "type": "textarea", "id": "description", "label": "Step Description", "default": "Description of this step goes here." },
         {
           "type": "select",
           "id": "alignment",
           "label": "Image Alignment",
           "default": "left",
           "options": [
-            {
-              "value": "left",
-              "label": "Left"
-            },
-            {
-              "value": "right",
-              "label": "Right"
-            }
+            { "value": "left", "label": "Left" },
+            { "value": "right", "label": "Right" }
           ]
         }
       ]
     }
   ],
   "presets": [
-    {
-      "name": "How to Use",
-      "category": "Custom"
-    }
+    { "name": "How to Use" }
   ]
 }
 {% endschema %}
